@@ -1,2 +1,2 @@
-webpackJsonp([34748760999281],{357:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(3),r=n(l),s=function(){return r.default.createElement("h1",null,"Trinkets simulations")};t.default=s,e.exports=t.default}});
+webpackJsonp([34748760999281],{363:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(3),r=n(l),s=function(){return r.default.createElement("h1",null,"Trinkets simulations")};t.default=s,e.exports=t.default}});
 //# sourceMappingURL=component---src-templates-simulation-trinkets-js-a0b9406525e2f947a23d.js.map
