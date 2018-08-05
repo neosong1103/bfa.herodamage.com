@@ -1,0 +1,2 @@
+webpackJsonp([52379084718225],{949:function(i,t){i.exports={pathContext:{slug:"/warlock/trinkets/1t-pr-affliction",name:"TrinketSimulation_1T_PR_Warlock_Affliction",wowClass:"warlock",simulationType:"trinkets",order:4,fightStyle:"1t",tier:"pr",spec:"affliction",variation:"",targetError:.2,resultTime:1533444857,version:"8.0.1",build:26095,buildTime:1533444557,gitRevision:"dbd3c08a1f",lang:"fr"}}}});
+//# sourceMappingURL=path---fr-warlock-trinkets-1-t-pr-affliction-a58015ca68e8f36b3d1e.js.map

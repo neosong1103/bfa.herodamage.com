@@ -1,0 +1,2 @@
+webpackJsonp([0xb143331eca23],{824:function(i,e){i.exports={pathContext:{slug:"/warlock/races/1t-pr-affliction",name:"RaceSimulation_1T_PR_Warlock_Affliction",wowClass:"warlock",simulationType:"races",order:5,fightStyle:"1t",tier:"pr",spec:"affliction",variation:"",targetError:.05,resultTime:1533422988,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"en"}}}});
+//# sourceMappingURL=path---en-warlock-races-1-t-pr-affliction-41a57c8be74b3a1551f6.js.map

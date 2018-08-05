@@ -1,0 +1,2 @@
+webpackJsonp([0x886f8901714f],{825:function(o,e){o.exports={pathContext:{slug:"/warlock/races/1t-pr-demonology",name:"RaceSimulation_1T_PR_Warlock_Demonology",wowClass:"warlock",simulationType:"races",order:5,fightStyle:"1t",tier:"pr",spec:"demonology",variation:"",targetError:.05,resultTime:1533423005,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"en"}}}});
+//# sourceMappingURL=path---en-warlock-races-1-t-pr-demonology-df756cfc7fb39dae8085.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([30795678541094],{872:function(e,a){e.exports={pathContext:{slug:"/mage/azeritestacks/1t-pr-arcane",name:"AzeriteStacks_1T_PR_Mage_Arcane",wowClass:"mage",simulationType:"azeritestacks",order:2,fightStyle:"1t",tier:"pr",spec:"arcane",variation:"",targetError:.1,resultTime:1533420252,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"fr"}}}});
+//# sourceMappingURL=path---fr-mage-azeritestacks-1-t-pr-arcane-cc8414d9d0dcc496bbde.js.map

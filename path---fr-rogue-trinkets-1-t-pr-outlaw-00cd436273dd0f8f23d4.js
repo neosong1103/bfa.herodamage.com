@@ -1,0 +1,2 @@
+webpackJsonp([0xad6d5cbc2adf],{924:function(t,e){t.exports={pathContext:{slug:"/rogue/trinkets/1t-pr-outlaw",name:"TrinketSimulation_1T_PR_Rogue_Outlaw",wowClass:"rogue",simulationType:"trinkets",order:4,fightStyle:"1t",tier:"pr",spec:"outlaw",variation:"",targetError:.2,resultTime:1533444702,version:"8.0.1",build:26095,buildTime:1533444557,gitRevision:"dbd3c08a1f",lang:"fr"}}}});
+//# sourceMappingURL=path---fr-rogue-trinkets-1-t-pr-outlaw-00cd436273dd0f8f23d4.js.map

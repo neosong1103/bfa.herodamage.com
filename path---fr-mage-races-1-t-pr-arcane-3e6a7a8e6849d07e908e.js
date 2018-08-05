@@ -1,0 +1,2 @@
+webpackJsonp([0xceeb3e7ad33d],{875:function(e,a){e.exports={pathContext:{slug:"/mage/races/1t-pr-arcane",name:"RaceSimulation_1T_PR_Mage_Arcane",wowClass:"mage",simulationType:"races",order:5,fightStyle:"1t",tier:"pr",spec:"arcane",variation:"",targetError:.05,resultTime:1533422839,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"fr"}}}});
+//# sourceMappingURL=path---fr-mage-races-1-t-pr-arcane-3e6a7a8e6849d07e908e.js.map

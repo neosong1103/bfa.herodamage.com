@@ -1,0 +1,2 @@
+webpackJsonp([0xd1e6dd4f9b9],{820:function(e,t){e.exports={pathContext:{slug:"/warlock/azeritelevels/1t-pr-destruction",name:"AzeriteLevels_1T_PR_Warlock_Destruction",wowClass:"warlock",simulationType:"azeritelevels",order:1,fightStyle:"1t",tier:"pr",spec:"destruction",variation:"",targetError:.1,resultTime:1533421288,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"en"}}}});
+//# sourceMappingURL=path---en-warlock-azeritelevels-1-t-pr-destruction-97a912143971583f9201.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xc85c226347a3],{803:function(t,e){t.exports={pathContext:{slug:"/rogue/trinkets/1t-pr-subtlety",name:"TrinketSimulation_1T_PR_Rogue_Subtlety",wowClass:"rogue",simulationType:"trinkets",order:4,fightStyle:"1t",tier:"pr",spec:"subtlety",variation:"",targetError:.2,resultTime:1533444723,version:"8.0.1",build:26095,buildTime:1533444557,gitRevision:"dbd3c08a1f",lang:"en"}}}});
+//# sourceMappingURL=path---en-rogue-trinkets-1-t-pr-subtlety-37b1715163b68b256fc5.js.map

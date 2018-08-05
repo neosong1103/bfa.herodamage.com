@@ -1,0 +1,2 @@
+webpackJsonp([69940649069085],{770:function(e,i){e.exports={pathContext:{slug:"/paladin/azeritelevels/1t-pr-retribution",name:"AzeriteLevels_1T_PR_Paladin_Retribution",wowClass:"paladin",simulationType:"azeritelevels",order:1,fightStyle:"1t",tier:"pr",spec:"retribution",variation:"",targetError:.1,resultTime:1533422246,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"en"}}}});
+//# sourceMappingURL=path---en-paladin-azeritelevels-1-t-pr-retribution-8d9deaee8bd5d420934c.js.map

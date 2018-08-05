@@ -1,0 +1,2 @@
+webpackJsonp([0xf4c7626e45d6],{811:function(e,a){e.exports={pathContext:{slug:"/shaman/races/1t-pr-elemental",name:"RaceSimulation_1T_PR_Shaman_Elemental",wowClass:"shaman",simulationType:"races",order:5,fightStyle:"1t",tier:"pr",spec:"elemental",variation:"",targetError:.05,resultTime:1533423223,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"en"}}}});
+//# sourceMappingURL=path---en-shaman-races-1-t-pr-elemental-7aace0492defc1bea501.js.map

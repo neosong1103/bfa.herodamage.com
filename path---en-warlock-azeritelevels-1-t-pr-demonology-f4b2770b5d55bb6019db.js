@@ -1,0 +1,2 @@
+webpackJsonp([25453719698011],{819:function(e,o){e.exports={pathContext:{slug:"/warlock/azeritelevels/1t-pr-demonology",name:"AzeriteLevels_1T_PR_Warlock_Demonology",wowClass:"warlock",simulationType:"azeritelevels",order:1,fightStyle:"1t",tier:"pr",spec:"demonology",variation:"",targetError:.1,resultTime:1533421154,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"en"}}}});
+//# sourceMappingURL=path---en-warlock-azeritelevels-1-t-pr-demonology-f4b2770b5d55bb6019db.js.map
