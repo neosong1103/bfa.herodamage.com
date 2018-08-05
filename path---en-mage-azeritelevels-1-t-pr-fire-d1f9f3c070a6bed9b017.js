@@ -1,2 +1,0 @@
-webpackJsonp([0xe9b869d9d5ea],{748:function(e,i){e.exports={pathContext:{slug:"/mage/azeritelevels/1t-pr-fire",name:"AzeriteLevels_1T_PR_Mage_Fire",wowClass:"mage",simulationType:"azeritelevels",order:1,fightStyle:"1t",tier:"pr",spec:"fire",variation:"",targetError:.1,resultTime:1533420332,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"en"}}}});
-//# sourceMappingURL=path---en-mage-azeritelevels-1-t-pr-fire-d1f9f3c070a6bed9b017.js.map

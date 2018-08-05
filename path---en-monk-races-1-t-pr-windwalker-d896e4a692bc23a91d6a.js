@@ -1,2 +1,0 @@
-webpackJsonp([0xeb5217fea828],{765:function(e,i){e.exports={pathContext:{slug:"/monk/races/1t-pr-windwalker",name:"RaceSimulation_1T_PR_Monk_Windwalker",wowClass:"monk",simulationType:"races",order:5,fightStyle:"1t",tier:"pr",spec:"windwalker",variation:"",targetError:.05,resultTime:1533423146,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"en"}}}});
-//# sourceMappingURL=path---en-monk-races-1-t-pr-windwalker-d896e4a692bc23a91d6a.js.map

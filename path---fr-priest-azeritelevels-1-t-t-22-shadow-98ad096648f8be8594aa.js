@@ -1,2 +1,0 @@
-webpackJsonp([52118326597250],{901:function(e,t){e.exports={pathContext:{slug:"/priest/azeritelevels/1t-t22-shadow",name:"AzeriteLevels_1T_T22_Priest_Shadow",wowClass:"priest",simulationType:"azeritelevels",order:1,fightStyle:"1t",tier:"t22",spec:"shadow",variation:"",targetError:.1,resultTime:1533422704,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-priest-azeritelevels-1-t-t-22-shadow-98ad096648f8be8594aa.js.map

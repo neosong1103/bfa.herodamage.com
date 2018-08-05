@@ -1,2 +1,0 @@
-webpackJsonp([53007246263446],{957:function(r,i){r.exports={pathContext:{slug:"/warrior/races/1t-pr-arms",name:"RaceSimulation_1T_PR_Warrior_Arms",wowClass:"warrior",simulationType:"races",order:5,fightStyle:"1t",tier:"pr",spec:"arms",variation:"",targetError:.05,resultTime:1533423078,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-warrior-races-1-t-pr-arms-7d804867fd51d9593be5.js.map

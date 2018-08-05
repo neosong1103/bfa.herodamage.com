@@ -1,2 +1,0 @@
-webpackJsonp([0x92e68fe63b3f],{755:function(e,t){e.exports={pathContext:{slug:"/mage/races/1t-pr-frost",name:"RaceSimulation_1T_PR_Mage_Frost",wowClass:"mage",simulationType:"races",order:5,fightStyle:"1t",tier:"pr",spec:"frost",variation:"",targetError:.05,resultTime:1533422879,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"en"}}}});
-//# sourceMappingURL=path---en-mage-races-1-t-pr-frost-8f7c4f1301beb0dc5abf.js.map

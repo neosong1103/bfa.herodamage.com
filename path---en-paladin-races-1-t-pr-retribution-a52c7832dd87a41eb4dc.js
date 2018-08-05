@@ -1,2 +1,0 @@
-webpackJsonp([0xd4f2e9c10014],{774:function(i,e){i.exports={pathContext:{slug:"/paladin/races/1t-pr-retribution",name:"RaceSimulation_1T_PR_Paladin_Retribution",wowClass:"paladin",simulationType:"races",order:5,fightStyle:"1t",tier:"pr",spec:"retribution",variation:"",targetError:.05,resultTime:1533423176,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"en"}}}});
-//# sourceMappingURL=path---en-paladin-races-1-t-pr-retribution-a52c7832dd87a41eb4dc.js.map

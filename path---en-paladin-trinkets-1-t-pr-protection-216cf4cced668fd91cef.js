@@ -1,0 +1,2 @@
+webpackJsonp([72424341728076],{779:function(t,i){t.exports={pathContext:{slug:"/paladin/trinkets/1t-pr-protection",name:"TrinketSimulation_1T_PR_Paladin_Protection",wowClass:"paladin",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"protection",variation:"",targetError:.2,resultTime:1533445035,version:"8.0.1",build:26095,buildTime:1533444557,gitRevision:"dbd3c08a1f",lang:"en"}}}});
+//# sourceMappingURL=path---en-paladin-trinkets-1-t-pr-protection-216cf4cced668fd91cef.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xf37202a5952c],{787:function(e,s){e.exports={pathContext:{slug:"/rogue/azeritelevels/1t-pr-assassination",name:"AzeriteLevels_1T_PR_Rogue_Assassination",wowClass:"rogue",simulationType:"azeritelevels",order:1,fightStyle:"1t",tier:"pr",spec:"assassination",variation:"",targetError:.1,resultTime:1533419743,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"en"}}}});
-//# sourceMappingURL=path---en-rogue-azeritelevels-1-t-pr-assassination-e15cbdf4eccf11bd0e72.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xa73250d58c5d],{916:function(i,o){i.exports={pathContext:{slug:"/rogue/combinations/1t-t21-assassination-poison",name:"Combinator_1T_T21_Rogue_Assassination_Poison",wowClass:"rogue",simulationType:"combinations",order:3,fightStyle:"1t",tier:"t21",spec:"assassination",variation:"poison",targetError:.4,resultTime:1533385382,version:"8.0.1",build:26095,buildTime:1533358190,gitRevision:"54a57b4ae7",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-rogue-combinations-1-t-t-21-assassination-poison-fe738c86685c3f4cf5cc.js.map

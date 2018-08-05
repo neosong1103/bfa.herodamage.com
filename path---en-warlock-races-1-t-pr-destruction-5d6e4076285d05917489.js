@@ -1,2 +1,0 @@
-webpackJsonp([2760706043209],{826:function(t,e){t.exports={pathContext:{slug:"/warlock/races/1t-pr-destruction",name:"RaceSimulation_1T_PR_Warlock_Destruction",wowClass:"warlock",simulationType:"races",order:5,fightStyle:"1t",tier:"pr",spec:"destruction",variation:"",targetError:.05,resultTime:1533423023,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"en"}}}});
-//# sourceMappingURL=path---en-warlock-races-1-t-pr-destruction-5d6e4076285d05917489.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([45552641959740],{857:function(i,r){i.exports={pathContext:{slug:"/druid/trinkets/1t-pr-guardian",name:"TrinketSimulation_1T_PR_Druid_Guardian",wowClass:"druid",simulationType:"trinkets",order:4,fightStyle:"1t",tier:"pr",spec:"guardian",variation:"",targetError:.2,resultTime:1533445104,version:"8.0.1",build:26095,buildTime:1533444557,gitRevision:"dbd3c08a1f",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-druid-trinkets-1-t-pr-guardian-e7f77d60a493badbff33.js.map
