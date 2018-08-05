@@ -13,8 +13,8 @@
       "path---en-druid-trinkets-1-t-pr-guardian-9171d5e0c23be05cc2d5.js.map"
     ],
     "path---en-priest": [
-      "path---en-priest-9f63087a4bd446618abd.js",
-      "path---en-priest-9f63087a4bd446618abd.js.map"
+      "path---en-priest-ee89098a7ae55efd316e.js",
+      "path---en-priest-ee89098a7ae55efd316e.js.map"
     ],
     "path---fr-druid-azeritelevels-1-t-pr-feral": [
       "path---fr-druid-azeritelevels-1-t-pr-feral-583af1cda00029e8fd70.js",
@@ -85,20 +85,20 @@
       "path---fr-warrior-azeritestacks-1-t-pr-arms-bc653f6e035881330229.js.map"
     ],
     "component---src-templates-wow-class-js": [
-      "component---src-templates-wow-class-js-cf3c8301b6030bedf573.js",
-      "component---src-templates-wow-class-js-cf3c8301b6030bedf573.js.map"
+      "component---src-templates-wow-class-js-a84e2b33bdd2facccce4.js",
+      "component---src-templates-wow-class-js-a84e2b33bdd2facccce4.js.map"
     ],
     "path---fr-monk-trinkets-1-t-pr-windwalker": [
       "path---fr-monk-trinkets-1-t-pr-windwalker-1dafa415bc474c13a625.js",
       "path---fr-monk-trinkets-1-t-pr-windwalker-1dafa415bc474c13a625.js.map"
     ],
     "path---en-paladin": [
-      "path---en-paladin-ba21071226b51aa95ec3.js",
-      "path---en-paladin-ba21071226b51aa95ec3.js.map"
+      "path---en-paladin-a28a98d8de16a231d315.js",
+      "path---en-paladin-a28a98d8de16a231d315.js.map"
     ],
     "path---fr-blog": [
-      "path---fr-blog-8e3f4e0e80a2d1633614.js",
-      "path---fr-blog-8e3f4e0e80a2d1633614.js.map"
+      "path---fr-blog-c42f028fdaa38cf065f5.js",
+      "path---fr-blog-c42f028fdaa38cf065f5.js.map"
     ],
     "path---fr-monk-azeritelevels-1-t-pr-brewmaster": [
       "path---fr-monk-azeritelevels-1-t-pr-brewmaster-4e01c715375ac2cf2bfb.js",
@@ -117,8 +117,8 @@
       "path---en-warlock-azeritelevels-1-t-pr-demonology-a5af186410159b16af1f.js.map"
     ],
     "path---fr-paladin": [
-      "path---fr-paladin-1f405ca44f411e6ef68f.js",
-      "path---fr-paladin-1f405ca44f411e6ef68f.js.map"
+      "path---fr-paladin-76d5fc942441cd2a8612.js",
+      "path---fr-paladin-76d5fc942441cd2a8612.js.map"
     ],
     "path---en-shaman-azeritelevels-1-t-pr-enhancement": [
       "path---en-shaman-azeritelevels-1-t-pr-enhancement-a90346055c86447c7013.js",
@@ -145,8 +145,8 @@
       "component---src-templates-simulation-trinkets-js-a0b9406525e2f947a23d.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-3ebc10249d40240fcf48.js",
-      "component---src-pages-index-js-3ebc10249d40240fcf48.js.map"
+      "component---src-pages-index-js-19a8f59b0c64bd7b98d1.js",
+      "component---src-pages-index-js-19a8f59b0c64bd7b98d1.js.map"
     ],
     "path---fr-monk-races-1-t-pr-brewmaster": [
       "path---fr-monk-races-1-t-pr-brewmaster-4c1dba2736128a03d8fc.js",
@@ -213,8 +213,8 @@
       "path---en-druid-races-1-t-pr-balance-0aace81d262686d0a85f.js.map"
     ],
     "path---en-blog": [
-      "path---en-blog-1a9a807c746da0c1ba94.js",
-      "path---en-blog-1a9a807c746da0c1ba94.js.map"
+      "path---en-blog-0563f531d027e0494f34.js",
+      "path---en-blog-0563f531d027e0494f34.js.map"
     ],
     "path---fr-priest-azeritelevels-1-t-t-22-shadow": [
       "path---fr-priest-azeritelevels-1-t-t-22-shadow-5ff522ff877f5b68e54d.js",
@@ -233,8 +233,8 @@
       "path---en-monk-races-1-t-pr-brewmaster-a6919895353b1575f99b.js.map"
     ],
     "path---fr-mage": [
-      "path---fr-mage-54e0601d9b832b8de4fc.js",
-      "path---fr-mage-54e0601d9b832b8de4fc.js.map"
+      "path---fr-mage-44c8e07cec5a439c96e5.js",
+      "path---fr-mage-44c8e07cec5a439c96e5.js.map"
     ],
     "path---fr-hunter-azeritelevels-1-t-pr-survival": [
       "path---fr-hunter-azeritelevels-1-t-pr-survival-66271c7a5178ec5bdb1b.js",
@@ -325,8 +325,8 @@
       "path---fr-warlock-azeritelevels-1-t-pr-demonology-21d79d88cbfeeceb58c2.js.map"
     ],
     "path---en-faq": [
-      "path---en-faq-e56dc589c189b44dd414.js",
-      "path---en-faq-e56dc589c189b44dd414.js.map"
+      "path---en-faq-fa1178619a2d4f3798e9.js",
+      "path---en-faq-fa1178619a2d4f3798e9.js.map"
     ],
     "path---en-rogue-azeritestacks-1-t-pr-assassination": [
       "path---en-rogue-azeritestacks-1-t-pr-assassination-0bf8d671529d8f15ccd8.js",
@@ -353,12 +353,12 @@
       "path---en-monk-azeritestacks-1-t-pr-brewmaster-835bf87cf13457f5ec5d.js.map"
     ],
     "path---en-rogue": [
-      "path---en-rogue-e1e6e4761530a64d01f2.js",
-      "path---en-rogue-e1e6e4761530a64d01f2.js.map"
+      "path---en-rogue-ffd6b7323b5661fe2db8.js",
+      "path---en-rogue-ffd6b7323b5661fe2db8.js.map"
     ],
     "component---src-pages-faq-js": [
-      "component---src-pages-faq-js-62abbd46d431d2cf23a1.js",
-      "component---src-pages-faq-js-62abbd46d431d2cf23a1.js.map"
+      "component---src-pages-faq-js-3bb2e0ca8b8018b44119.js",
+      "component---src-pages-faq-js-3bb2e0ca8b8018b44119.js.map"
     ],
     "path---fr-rogue-races-1-t-pr-subtlety": [
       "path---fr-rogue-races-1-t-pr-subtlety-64a4d8914f4028f2f46a.js",
@@ -413,12 +413,12 @@
       "path---en-monk-trinkets-1-t-pr-windwalker-6b6d7d593d2060431d79.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-870a559caf7143b293de.js",
-      "component---src-templates-blog-post-js-870a559caf7143b293de.js.map"
+      "component---src-templates-blog-post-js-443ceaf3c53289cc8849.js",
+      "component---src-templates-blog-post-js-443ceaf3c53289cc8849.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-78c68fbcb1522d51f302.js",
-      "component---src-layouts-index-js-78c68fbcb1522d51f302.js.map"
+      "component---src-layouts-index-js-e7ba5f885e1f22a271b3.js",
+      "component---src-layouts-index-js-e7ba5f885e1f22a271b3.js.map"
     ],
     "path---fr-paladin-azeritestacks-1-t-pr-retribution": [
       "path---fr-paladin-azeritestacks-1-t-pr-retribution-2cf44872a3b05903fe83.js",
@@ -493,8 +493,8 @@
       "path---fr-8b7c9915d417f3aa60ea.js.map"
     ],
     "path---fr-priest": [
-      "path---fr-priest-00b34c140b37785b0278.js",
-      "path---fr-priest-00b34c140b37785b0278.js.map"
+      "path---fr-priest-47690730055243edcfc6.js",
+      "path---fr-priest-47690730055243edcfc6.js.map"
     ],
     "component---src-templates-simulation-races-js": [
       "component---src-templates-simulation-races-js-fb8a138ad2931edd39d5.js",
@@ -561,8 +561,8 @@
       "path---fr-mage-azeritelevels-1-t-pr-fire-70cc3194538f7c5355bc.js.map"
     ],
     "path---en-druid": [
-      "path---en-druid-ec7c863a598d5d128bb9.js",
-      "path---en-druid-ec7c863a598d5d128bb9.js.map"
+      "path---en-druid-3822a192063a59ea5c68.js",
+      "path---en-druid-3822a192063a59ea5c68.js.map"
     ],
     "path---fr-druid-races-1-t-pr-balance": [
       "path---fr-druid-races-1-t-pr-balance-4a725a20b9a49a816674.js",
@@ -597,8 +597,8 @@
       "path---fr-warlock-azeritestacks-1-t-pr-destruction-3e04d930510c186b08af.js.map"
     ],
     "path---en-shaman": [
-      "path---en-shaman-388871248e070cecb29f.js",
-      "path---en-shaman-388871248e070cecb29f.js.map"
+      "path---en-shaman-967e7bba0c81b3fb175f.js",
+      "path---en-shaman-967e7bba0c81b3fb175f.js.map"
     ],
     "path---en-druid-azeritestacks-1-t-pr-feral": [
       "path---en-druid-azeritestacks-1-t-pr-feral-595cbcf8ed9bd7605900.js",
@@ -621,8 +621,8 @@
       "path---en-mage-races-1-t-pr-frost-c45e84a21ebf52404f83.js.map"
     ],
     "path---en-mage": [
-      "path---en-mage-52771c944c3c7db6b782.js",
-      "path---en-mage-52771c944c3c7db6b782.js.map"
+      "path---en-mage-53a571e3ad8dd77056c9.js",
+      "path---en-mage-53a571e3ad8dd77056c9.js.map"
     ],
     "path---fr-hunter-azeritestacks-1-t-pr-survival": [
       "path---fr-hunter-azeritestacks-1-t-pr-survival-d1279dfbd8b6ef9aa123.js",
@@ -641,12 +641,12 @@
       "path---en-priest-races-1-t-pr-shadow-bdfd425052a2e7c8c496.js.map"
     ],
     "path---fr-warrior": [
-      "path---fr-warrior-116d8d646290f9293167.js",
-      "path---fr-warrior-116d8d646290f9293167.js.map"
+      "path---fr-warrior-cb78c373ef09cf290a17.js",
+      "path---fr-warrior-cb78c373ef09cf290a17.js.map"
     ],
     "path---fr-rogue": [
-      "path---fr-rogue-2ce067c2e8478c8e1252.js",
-      "path---fr-rogue-2ce067c2e8478c8e1252.js.map"
+      "path---fr-rogue-58ea4489436401cd1b77.js",
+      "path---fr-rogue-58ea4489436401cd1b77.js.map"
     ],
     "path---en-druid-azeritelevels-1-t-pr-guardian": [
       "path---en-druid-azeritelevels-1-t-pr-guardian-05dce752bbe371416301.js",
@@ -765,12 +765,12 @@
       "path---en-warlock-races-1-t-pr-affliction-ded72e74fce8c31d535b.js.map"
     ],
     "path---en-warlock": [
-      "path---en-warlock-a96b80189d0762ef3bcb.js",
-      "path---en-warlock-a96b80189d0762ef3bcb.js.map"
+      "path---en-warlock-30924ccc6874172951d0.js",
+      "path---en-warlock-30924ccc6874172951d0.js.map"
     ],
     "path---fr-faq": [
-      "path---fr-faq-8b7c9915d417f3aa60ea.js",
-      "path---fr-faq-8b7c9915d417f3aa60ea.js.map"
+      "path---fr-faq-ce351523729d0f84e47b.js",
+      "path---fr-faq-ce351523729d0f84e47b.js.map"
     ],
     "path---en-shaman-races-1-t-pr-enhancement": [
       "path---en-shaman-races-1-t-pr-enhancement-7e853a0930ac67bda56e.js",
@@ -801,12 +801,12 @@
       "path---fr-warlock-azeritestacks-1-t-pr-demonology-899806032c53ea6a9510.js.map"
     ],
     "path---fr-monk": [
-      "path---fr-monk-1eccf596f56db4542190.js",
-      "path---fr-monk-1eccf596f56db4542190.js.map"
+      "path---fr-monk-02684a63ca3ddb726d51.js",
+      "path---fr-monk-02684a63ca3ddb726d51.js.map"
     ],
     "path---fr-druid": [
-      "path---fr-druid-0d8879559206bbc11df6.js",
-      "path---fr-druid-0d8879559206bbc11df6.js.map"
+      "path---fr-druid-4b570943470ba8d41ab8.js",
+      "path---fr-druid-4b570943470ba8d41ab8.js.map"
     ],
     "component---src-pages-blog-js": [
       "component---src-pages-blog-js-dad2b51ab274bbd9a434.js",
@@ -869,8 +869,8 @@
       "path---fr-404-html-8b7c9915d417f3aa60ea.js.map"
     ],
     "app": [
-      "app-7227769a6976dab2af21.js",
-      "app-7227769a6976dab2af21.js.map"
+      "app-a9471be00fac6f7961ca.js",
+      "app-a9471be00fac6f7961ca.js.map"
     ],
     "path---en-priest-races-1-t-t-22-shadow": [
       "path---en-priest-races-1-t-t-22-shadow-a16647e16a16e02d0cd6.js",
@@ -909,8 +909,8 @@
       "path---en-shaman-azeritestacks-1-t-pr-enhancement-df2f0158b6e354718658.js.map"
     ],
     "path---fr-shaman": [
-      "path---fr-shaman-00f6412983134062eb3b.js",
-      "path---fr-shaman-00f6412983134062eb3b.js.map"
+      "path---fr-shaman-7ab0ab3e943b9fcb0670.js",
+      "path---fr-shaman-7ab0ab3e943b9fcb0670.js.map"
     ],
     "path---en-rogue-combinations-1-t-t-21-subtlety": [
       "path---en-rogue-combinations-1-t-t-21-subtlety-3a1c4ff4b0b55374601a.js",
@@ -949,24 +949,24 @@
       "path---fr-druid-azeritestacks-1-t-pr-feral-057abfea43d1194af440.js.map"
     ],
     "path---en-hunter": [
-      "path---en-hunter-96cb299461d813581948.js",
-      "path---en-hunter-96cb299461d813581948.js.map"
+      "path---en-hunter-a4fc8fd1fae463b1e2b4.js",
+      "path---en-hunter-a4fc8fd1fae463b1e2b4.js.map"
     ],
     "path---en-monk-races-1-t-pr-windwalker": [
       "path---en-monk-races-1-t-pr-windwalker-893c7e7b15f07ec8d273.js",
       "path---en-monk-races-1-t-pr-windwalker-893c7e7b15f07ec8d273.js.map"
     ],
     "path---fr-warlock": [
-      "path---fr-warlock-bc6ccd913f5736aa9c0a.js",
-      "path---fr-warlock-bc6ccd913f5736aa9c0a.js.map"
+      "path---fr-warlock-62147c9ac5b199fd666c.js",
+      "path---fr-warlock-62147c9ac5b199fd666c.js.map"
     ],
     "path---fr-monk-azeritelevels-1-t-pr-windwalker": [
       "path---fr-monk-azeritelevels-1-t-pr-windwalker-71a05e65872de4ba3175.js",
       "path---fr-monk-azeritelevels-1-t-pr-windwalker-71a05e65872de4ba3175.js.map"
     ],
     "path---en-monk": [
-      "path---en-monk-2657c62f4c487568a59d.js",
-      "path---en-monk-2657c62f4c487568a59d.js.map"
+      "path---en-monk-b44d42b5cd6c03a545dd.js",
+      "path---en-monk-b44d42b5cd6c03a545dd.js.map"
     ],
     "path---en-mage-races-1-t-pr-arcane": [
       "path---en-mage-races-1-t-pr-arcane-2d69c518dfb01b9209e5.js",
@@ -977,8 +977,8 @@
       "path---fr-hunter-azeritestacks-1-t-pr-marksmanship-4f15a59578ba4f8a5729.js.map"
     ],
     "path---fr-hunter": [
-      "path---fr-hunter-2ebfe0091c12b1cb9d12.js",
-      "path---fr-hunter-2ebfe0091c12b1cb9d12.js.map"
+      "path---fr-hunter-9aa5e3f39197c41c7fc0.js",
+      "path---fr-hunter-9aa5e3f39197c41c7fc0.js.map"
     ],
     "path---en-rogue-azeritelevels-1-t-pr-assassination": [
       "path---en-rogue-azeritelevels-1-t-pr-assassination-6e0e14b665ba1fda0c88.js",
@@ -1029,8 +1029,8 @@
       "path---en-hunter-trinkets-1-t-pr-marksmanship-cb0fc7470fbd997cb98b.js.map"
     ],
     "path---en-warrior": [
-      "path---en-warrior-ed1745f28ac529c7e9e1.js",
-      "path---en-warrior-ed1745f28ac529c7e9e1.js.map"
+      "path---en-warrior-585309b5ffbec8e993c9.js",
+      "path---en-warrior-585309b5ffbec8e993c9.js.map"
     ],
     "path---fr-paladin-races-1-t-pr-protection": [
       "path---fr-paladin-races-1-t-pr-protection-71b21f700bbac01f1fbd.js",
