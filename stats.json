@@ -313,8 +313,8 @@
       "path---en-rogue-azeritestacks-1-ta-pr-outlaw-c754807168426a8d8dff.js.map"
     ],
     "component---src-templates-wow-class-js": [
-      "component---src-templates-wow-class-js-bcff51b011a88eeeb93a.js",
-      "component---src-templates-wow-class-js-bcff51b011a88eeeb93a.js.map"
+      "component---src-templates-wow-class-js-95e077960ca903532a4e.js",
+      "component---src-templates-wow-class-js-95e077960ca903532a4e.js.map"
     ],
     "path---fr-death-knight-races-2-t-t-22-blood": [
       "path---fr-death-knight-races-2-t-t-22-blood-259743304151f1e29bb7.js",
@@ -569,8 +569,8 @@
       "path---en-priest-azeritelevels-3-t-pr-shadow-da0e0fdd9ff3c0bd2708.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-7ce4973ee185fa1a2106.js",
-      "component---src-pages-index-js-7ce4973ee185fa1a2106.js.map"
+      "component---src-pages-index-js-405b147987e8d624f2dd.js",
+      "component---src-pages-index-js-405b147987e8d624f2dd.js.map"
     ],
     "path---fr-monk-races-1-t-pr-brewmaster": [
       "path---fr-monk-races-1-t-pr-brewmaster-896890154a6737b04e6e.js",
@@ -1341,8 +1341,8 @@
       "path---en-shaman-azeritestacks-2-t-t-22-enhancement-5c664eee766564b1429c.js.map"
     ],
     "component---src-pages-faq-js": [
-      "component---src-pages-faq-js-e9624f6ea8e5da97eb99.js",
-      "component---src-pages-faq-js-e9624f6ea8e5da97eb99.js.map"
+      "component---src-pages-faq-js-3bb2e0ca8b8018b44119.js",
+      "component---src-pages-faq-js-3bb2e0ca8b8018b44119.js.map"
     ],
     "path---fr-shaman-azeritestacks-2-t-pr-elemental": [
       "path---fr-shaman-azeritestacks-2-t-pr-elemental-6613392161b5b7f79a82.js",
@@ -1597,8 +1597,8 @@
       "path---fr-mage-azeritestacks-2-t-pr-frost-5635fe06ffd069f7ff94.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-db0bdd1b5c1377f8504a.js",
-      "component---src-templates-blog-post-js-db0bdd1b5c1377f8504a.js.map"
+      "component---src-templates-blog-post-js-443ceaf3c53289cc8849.js",
+      "component---src-templates-blog-post-js-443ceaf3c53289cc8849.js.map"
     ],
     "path---en-hunter-azeritelevels-3-t-pr-survival": [
       "path---en-hunter-azeritelevels-3-t-pr-survival-18c02c0f176b315410f4.js",
@@ -1673,8 +1673,8 @@
       "path---fr-warlock-azeritestacks-2-t-pr-demonology-9b3de00e92fe611f3693.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-9806f3d41aca175b0b9d.js",
-      "component---src-layouts-index-js-9806f3d41aca175b0b9d.js.map"
+      "component---src-layouts-index-js-624a72f0ea9c814edb13.js",
+      "component---src-layouts-index-js-624a72f0ea9c814edb13.js.map"
     ],
     "path---en-shaman-azeritestacks-2-t-pr-elemental": [
       "path---en-shaman-azeritestacks-2-t-pr-elemental-a2fe565fb5c038b0ae02.js",
@@ -1949,8 +1949,8 @@
       "path---en-shaman-azeritestacks-2-t-pr-enhancement-937bb48e043caabef183.js.map"
     ],
     "component---src-templates-simulation-races-js": [
-      "component---src-templates-simulation-races-js-c7fb3016f173f5f538ef.js",
-      "component---src-templates-simulation-races-js-c7fb3016f173f5f538ef.js.map"
+      "component---src-templates-simulation-races-js-f62aad307975c52ef3a1.js",
+      "component---src-templates-simulation-races-js-f62aad307975c52ef3a1.js.map"
     ],
     "path---en-rogue-trinkets-1-t-pr-outlaw": [
       "path---en-rogue-trinkets-1-t-pr-outlaw-a28747ebfc970ea9adc5.js",
@@ -2629,8 +2629,8 @@
       "path---fr-priest-trinkets-1-t-t-22-shadow-82845887072ffce499db.js.map"
     ],
     "commons": [
-      "commons-fc8009b1640bd739b93b.js",
-      "commons-fc8009b1640bd739b93b.js.map"
+      "commons-a17eb48dff65c358d3bd.js",
+      "commons-a17eb48dff65c358d3bd.js.map"
     ],
     "path---fr-warrior-azeritestacks-3-t-pr-fury": [
       "path---fr-warrior-azeritestacks-3-t-pr-fury-97e0103f85ba1e8bab93.js",
@@ -3601,8 +3601,8 @@
       "path---en-druid-azeritelevels-2-t-pr-guardian-525a8e846f1536ae0f78.js.map"
     ],
     "app": [
-      "app-18f61c523cee8bfde5b1.js",
-      "app-18f61c523cee8bfde5b1.js.map"
+      "app-61edaaf443f94a6b9c25.js",
+      "app-61edaaf443f94a6b9c25.js.map"
     ],
     "path---fr-shaman-azeritestacks-2-t-t-22-enhancement": [
       "path---fr-shaman-azeritestacks-2-t-t-22-enhancement-61724f27d89089b1bafe.js",
