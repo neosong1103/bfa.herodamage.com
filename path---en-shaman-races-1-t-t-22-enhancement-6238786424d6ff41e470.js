@@ -1,0 +1,2 @@
+webpackJsonp([94912522392205],{922:function(e,a){e.exports={pathContext:{slug:"/shaman/races/1t-t22-enhancement",name:"RaceSimulation_1T_T22_Shaman_Enhancement",wowClass:"shaman",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"t22",spec:"enhancement",variation:"",targetError:.05,resultTime:1533518798,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
+//# sourceMappingURL=path---en-shaman-races-1-t-t-22-enhancement-6238786424d6ff41e470.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0x8fb2546885b7],{762:function(e,r){e.exports={pathContext:{slug:"/druid/races/1t-pr-feral",name:"RaceSimulation_1T_PR_Druid_Feral",wowClass:"druid",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"pr",spec:"feral",variation:"",targetError:.05,resultTime:1533423191,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"en"}}}});
-//# sourceMappingURL=path---en-druid-races-1-t-pr-feral-a656661732f5a5557451.js.map

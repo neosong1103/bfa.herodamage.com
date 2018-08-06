@@ -1,0 +1,2 @@
+webpackJsonp([94740741942563],{1069:function(e,t){e.exports={pathContext:{slug:"/shaman/trinkets/1t-pr-elemental",name:"TrinketSimulation_1T_PR_Shaman_Elemental",wowClass:"shaman",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"elemental",variation:"",targetError:.2,resultTime:1533519261,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
+//# sourceMappingURL=path---fr-shaman-trinkets-1-t-pr-elemental-dd9b4ed98bf0f1a730fa.js.map

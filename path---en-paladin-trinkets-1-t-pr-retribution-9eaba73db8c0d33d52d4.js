@@ -1,0 +1,2 @@
+webpackJsonp([0x7520e70aa339],{885:function(t,i){t.exports={pathContext:{slug:"/paladin/trinkets/1t-pr-retribution",name:"TrinketSimulation_1T_PR_Paladin_Retribution",wowClass:"paladin",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"retribution",variation:"",targetError:.2,resultTime:1533519199,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
+//# sourceMappingURL=path---en-paladin-trinkets-1-t-pr-retribution-9eaba73db8c0d33d52d4.js.map

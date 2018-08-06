@@ -1,2 +1,0 @@
-webpackJsonp([81990738315519],{846:function(e,t){e.exports={pathContext:{slug:"/shaman/trinkets/1t-pr-enhancement",name:"TrinketSimulation_1T_PR_Shaman_Enhancement",wowClass:"shaman",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"enhancement",variation:"",targetError:.2,resultTime:1533445188,version:"8.0.1",build:26095,buildTime:1533444557,gitRevision:"dbd3c08a1f",lang:"en"}}}});
-//# sourceMappingURL=path---en-shaman-trinkets-1-t-pr-enhancement-7fedd2a038c4ff5b1e47.js.map

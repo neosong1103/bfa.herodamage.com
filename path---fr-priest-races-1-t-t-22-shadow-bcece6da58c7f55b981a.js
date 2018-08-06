@@ -1,2 +1,0 @@
-webpackJsonp([86305312796775],{934:function(e,t){e.exports={pathContext:{slug:"/priest/races/1t-t22-shadow",name:"RaceSimulation_1T_T22_Priest_Shadow",wowClass:"priest",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"t22",spec:"shadow",variation:"",targetError:.05,resultTime:1533423214,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-priest-races-1-t-t-22-shadow-bcece6da58c7f55b981a.js.map

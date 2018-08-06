@@ -1,2 +1,0 @@
-webpackJsonp([18655088373928],{984:function(r,t){r.exports={pathContext:{slug:"/warrior/azeritestacks/1t-pr-arms",name:"AzeriteStacks_1T_PR_Warrior_Arms",wowClass:"warrior",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"arms",variation:"",targetError:.1,resultTime:1533421388,version:"8.0.1",build:26095,buildTime:1533419561,gitRevision:"990c99194c",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-warrior-azeritestacks-1-t-pr-arms-bc653f6e035881330229.js.map

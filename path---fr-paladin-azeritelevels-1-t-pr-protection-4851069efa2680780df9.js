@@ -1,0 +1,2 @@
+webpackJsonp([0x6c03eeca6a63],{1024:function(e,t){e.exports={pathContext:{slug:"/paladin/azeritelevels/1t-pr-protection",name:"AzeriteLevels_1T_PR_Paladin_Protection",wowClass:"paladin",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1t",tier:"pr",spec:"protection",variation:"",targetError:.1,resultTime:1533517549,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
+//# sourceMappingURL=path---fr-paladin-azeritelevels-1-t-pr-protection-4851069efa2680780df9.js.map

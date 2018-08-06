@@ -1,0 +1,2 @@
+webpackJsonp([0x70f33daa32b3],{809:function(e,t){e.exports={pathContext:{slug:"/death-knight/azeritelevels/1t-pr-unholy",name:"AzeriteLevels_1T_PR_Death-Knight_Unholy",wowClass:"death-knight",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1t",tier:"pr",spec:"unholy",variation:"",targetError:.1,resultTime:1533516231,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
+//# sourceMappingURL=path---en-death-knight-azeritelevels-1-t-pr-unholy-968f3bd39baf7a4c05ee.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xd3bfbf083f5],{938:function(t,e){t.exports={pathContext:{slug:"/warlock/trinkets/1t-pr-destruction",name:"TrinketSimulation_1T_PR_Warlock_Destruction",wowClass:"warlock",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"destruction",variation:"",targetError:.2,resultTime:1533519042,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
+//# sourceMappingURL=path---en-warlock-trinkets-1-t-pr-destruction-83d02d5f60980c0bdc94.js.map

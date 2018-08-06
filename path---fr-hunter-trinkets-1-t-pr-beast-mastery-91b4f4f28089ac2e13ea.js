@@ -1,0 +1,2 @@
+webpackJsonp([77166818780793],{998:function(t,e){t.exports={pathContext:{slug:"/hunter/trinkets/1t-pr-beast-mastery",name:"TrinketSimulation_1T_PR_Hunter_Beast-Mastery",wowClass:"hunter",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"beast-mastery",variation:"",targetError:.2,resultTime:1533519052,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
+//# sourceMappingURL=path---fr-hunter-trinkets-1-t-pr-beast-mastery-91b4f4f28089ac2e13ea.js.map

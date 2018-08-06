@@ -1,0 +1,2 @@
+webpackJsonp([0x9dd9c75222fa],{908:function(e,t){e.exports={pathContext:{slug:"/rogue/races/1t-pr-outlaw",name:"RaceSimulation_1T_PR_Rogue_Outlaw",wowClass:"rogue",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"pr",spec:"outlaw",variation:"",targetError:.05,resultTime:1533518280,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
+//# sourceMappingURL=path---en-rogue-races-1-t-pr-outlaw-30e9b98bce43ce2ce5dd.js.map

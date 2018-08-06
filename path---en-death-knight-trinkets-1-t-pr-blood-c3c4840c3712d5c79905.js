@@ -1,0 +1,2 @@
+webpackJsonp([0x8948c7e4e9dc],{816:function(t,e){t.exports={pathContext:{slug:"/death-knight/trinkets/1t-pr-blood",name:"TrinketSimulation_1T_PR_Death-Knight_Blood",wowClass:"death-knight",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"blood",variation:"",targetError:.2,resultTime:1533518929,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
+//# sourceMappingURL=path---en-death-knight-trinkets-1-t-pr-blood-c3c4840c3712d5c79905.js.map

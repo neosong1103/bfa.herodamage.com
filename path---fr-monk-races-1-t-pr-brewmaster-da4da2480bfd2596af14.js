@@ -1,0 +1,2 @@
+webpackJsonp([35972326724309],{1019:function(e,r){e.exports={pathContext:{slug:"/monk/races/1t-pr-brewmaster",name:"RaceSimulation_1T_PR_Monk_Brewmaster",wowClass:"monk",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"pr",spec:"brewmaster",variation:"",targetError:.05,resultTime:1533518610,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
+//# sourceMappingURL=path---fr-monk-races-1-t-pr-brewmaster-da4da2480bfd2596af14.js.map
