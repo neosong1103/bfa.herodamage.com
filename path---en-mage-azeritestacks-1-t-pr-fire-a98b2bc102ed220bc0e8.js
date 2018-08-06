@@ -1,0 +1,2 @@
+webpackJsonp([0xd6546454fd0a],{1906:function(e,t){e.exports={pathContext:{slug:"/mage/azeritestacks/1t-pr-fire",name:"AzeriteStacks_1T_PR_Mage_Fire",wowClass:"mage",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"fire",variation:"",targetError:.1,resultTime:1533584319,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:8520,lang:"en"}}}});
+//# sourceMappingURL=path---en-mage-azeritestacks-1-t-pr-fire-a98b2bc102ed220bc0e8.js.map

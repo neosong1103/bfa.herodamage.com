@@ -1,0 +1,2 @@
+webpackJsonp([0x90d5b7118b9d],{2062:function(e,t){e.exports={pathContext:{slug:"/rogue/azeritelevels/2t-t22-outlaw",name:"AzeriteLevels_2T_T22_Rogue_Outlaw",wowClass:"rogue",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"2t",tier:"t22",spec:"outlaw",variation:"",targetError:.1,resultTime:1533590057,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:18548,lang:"en"}}}});
+//# sourceMappingURL=path---en-rogue-azeritelevels-2-t-t-22-outlaw-e3525f1ab79a1fd826c2.js.map

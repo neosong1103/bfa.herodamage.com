@@ -1,0 +1,2 @@
+webpackJsonp([0x7c3710f7475e],{2597:function(e,t){e.exports={pathContext:{slug:"/priest/azeritelevels/2t-pr-shadow",name:"AzeriteLevels_2T_PR_Priest_Shadow",wowClass:"priest",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"2t",tier:"pr",spec:"shadow",variation:"",targetError:.1,resultTime:1533593719,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:12213,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-priest-azeritelevels-2-t-pr-shadow-0ee696978b70c1474d62.js.map

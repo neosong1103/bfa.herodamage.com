@@ -1,2 +1,0 @@
-webpackJsonp([48571230983534],{1602:function(t,e){t.exports={pathContext:{slug:"/death-knight/azeritestacks/1t-pr-unholy",name:"AzeriteStacks_1T_PR_Death-Knight_Unholy",wowClass:"death-knight",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"unholy",variation:"",targetError:.1,resultTime:1533535661,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:10278,lang:"en"}}}});
-//# sourceMappingURL=path---en-death-knight-azeritestacks-1-t-pr-unholy-0d0860249a15dd2666fb.js.map

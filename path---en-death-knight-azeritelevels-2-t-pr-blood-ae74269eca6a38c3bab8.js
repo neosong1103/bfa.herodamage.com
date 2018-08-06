@@ -1,2 +1,0 @@
-webpackJsonp([0xc2f3c7fa487f],{1592:function(e,t){e.exports={pathContext:{slug:"/death-knight/azeritelevels/2t-pr-blood",name:"AzeriteLevels_2T_PR_Death-Knight_Blood",wowClass:"death-knight",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"2t",tier:"pr",spec:"blood",variation:"",targetError:.1,resultTime:1533538664,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:7875,lang:"en"}}}});
-//# sourceMappingURL=path---en-death-knight-azeritelevels-2-t-pr-blood-ae74269eca6a38c3bab8.js.map

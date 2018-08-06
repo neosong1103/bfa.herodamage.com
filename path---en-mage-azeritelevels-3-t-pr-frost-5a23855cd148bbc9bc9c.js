@@ -1,0 +1,2 @@
+webpackJsonp([0xef7ed1eb88cd],{1904:function(e,t){e.exports={pathContext:{slug:"/mage/azeritelevels/3t-pr-frost",name:"AzeriteLevels_3T_PR_Mage_Frost",wowClass:"mage",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"3t",tier:"pr",spec:"frost",variation:"",targetError:.1,resultTime:1533595603,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:15178,lang:"en"}}}});
+//# sourceMappingURL=path---en-mage-azeritelevels-3-t-pr-frost-5a23855cd148bbc9bc9c.js.map

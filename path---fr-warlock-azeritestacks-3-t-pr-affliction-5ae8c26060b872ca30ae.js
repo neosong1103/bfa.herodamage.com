@@ -1,0 +1,2 @@
+webpackJsonp([0x8e9425286aab],{2801:function(t,e){t.exports={pathContext:{slug:"/warlock/azeritestacks/3t-pr-affliction",name:"AzeriteStacks_3T_PR_Warlock_Affliction",wowClass:"warlock",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"3t",tier:"pr",spec:"affliction",variation:"",targetError:.1,resultTime:1533596868,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:16782,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-warlock-azeritestacks-3-t-pr-affliction-5ae8c26060b872ca30ae.js.map

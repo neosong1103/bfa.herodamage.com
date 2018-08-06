@@ -1,2 +1,0 @@
-webpackJsonp([22201760855203],{1658:function(e,t){e.exports={pathContext:{slug:"/demon-hunter/azeritestacks/1t-pr-vengeance",name:"AzeriteStacks_1T_PR_Demon-Hunter_Vengeance",wowClass:"demon-hunter",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"vengeance",variation:"",targetError:.1,resultTime:1533536563,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:6381,lang:"en"}}}});
-//# sourceMappingURL=path---en-demon-hunter-azeritestacks-1-t-pr-vengeance-2576fc3e9d0a10029b6d.js.map

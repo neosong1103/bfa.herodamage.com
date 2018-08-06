@@ -1,0 +1,2 @@
+webpackJsonp([0xa8390efed3d7],{1951:function(e,t){e.exports={pathContext:{slug:"/monk/azeritestacks/1t-pr-windwalker",name:"AzeriteStacks_1T_PR_Monk_Windwalker",wowClass:"monk",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"windwalker",variation:"",targetError:.1,resultTime:1533586519,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:11723,lang:"en"}}}});
+//# sourceMappingURL=path---en-monk-azeritestacks-1-t-pr-windwalker-8b6466dc4ace5b4bfa8b.js.map

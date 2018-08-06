@@ -1,0 +1,2 @@
+webpackJsonp([0xe96e0da2b18b],{2789:function(e,t){e.exports={pathContext:{slug:"/warlock/azeritelevels/3t-pr-affliction",name:"AzeriteLevels_3T_PR_Warlock_Affliction",wowClass:"warlock",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"3t",tier:"pr",spec:"affliction",variation:"",targetError:.1,resultTime:1533596799,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:16575,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-warlock-azeritelevels-3-t-pr-affliction-705396f3d81ddfe42230.js.map

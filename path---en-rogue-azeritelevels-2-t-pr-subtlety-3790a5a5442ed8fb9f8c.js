@@ -1,2 +1,0 @@
-webpackJsonp([0xabd2f4ac58b2],{1937:function(e,t){e.exports={pathContext:{slug:"/rogue/azeritelevels/2t-pr-subtlety",name:"AzeriteLevels_2T_PR_Rogue_Subtlety",wowClass:"rogue",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"2t",tier:"pr",spec:"subtlety",variation:"",targetError:.1,resultTime:1533538210,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:12319,lang:"en"}}}});
-//# sourceMappingURL=path---en-rogue-azeritelevels-2-t-pr-subtlety-3790a5a5442ed8fb9f8c.js.map

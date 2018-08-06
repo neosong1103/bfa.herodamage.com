@@ -1,0 +1,2 @@
+webpackJsonp([31795993104217],{2435:function(e,t){e.exports={pathContext:{slug:"/hunter/azeritelevels/2t-pr-beast-mastery",name:"AzeriteLevels_2T_PR_Hunter_Beast-Mastery",wowClass:"hunter",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"2t",tier:"pr",spec:"beast-mastery",variation:"",targetError:.1,resultTime:1533592124,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:12633,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-hunter-azeritelevels-2-t-pr-beast-mastery-ff79d4f56b848c6e17c0.js.map

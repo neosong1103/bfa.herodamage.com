@@ -1,0 +1,2 @@
+webpackJsonp([0xcbc168d4fa20],{2437:function(e,t){e.exports={pathContext:{slug:"/hunter/azeritelevels/2t-pr-survival",name:"AzeriteLevels_2T_PR_Hunter_Survival",wowClass:"hunter",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"2t",tier:"pr",spec:"survival",variation:"",targetError:.1,resultTime:1533592126,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:13117,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-hunter-azeritelevels-2-t-pr-survival-e4c151319f567c2a753f.js.map

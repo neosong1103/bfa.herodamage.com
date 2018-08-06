@@ -1,2 +1,0 @@
-webpackJsonp([0xc3305c25d007],{2273:function(e,t){e.exports={pathContext:{slug:"/hunter/azeritestacks/1t-pr-beast-mastery",name:"AzeriteStacks_1T_PR_Hunter_Beast-Mastery",wowClass:"hunter",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"beast-mastery",variation:"",targetError:.1,resultTime:1533536218,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:10246,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-hunter-azeritestacks-1-t-pr-beast-mastery-293711c0b2becd550145.js.map

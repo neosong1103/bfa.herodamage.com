@@ -1,0 +1,2 @@
+webpackJsonp([0xfa61f8c89d62],{2399:function(t,e){t.exports={pathContext:{slug:"/druid/azeritestacks/2t-pr-guardian",name:"AzeriteStacks_2T_PR_Druid_Guardian",wowClass:"druid",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"2t",tier:"pr",spec:"guardian",variation:"",targetError:.1,resultTime:1533593668,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:7072,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-druid-azeritestacks-2-t-pr-guardian-6c5b63e4cbac154534b1.js.map

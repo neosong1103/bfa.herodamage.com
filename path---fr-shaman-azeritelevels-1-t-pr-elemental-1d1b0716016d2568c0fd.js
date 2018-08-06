@@ -1,2 +1,0 @@
-webpackJsonp([0xd233370c77e6],{2507:function(e,t){e.exports={pathContext:{slug:"/shaman/azeritelevels/1t-pr-elemental",name:"AzeriteLevels_1T_PR_Shaman_Elemental",wowClass:"shaman",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1t",tier:"pr",spec:"elemental",variation:"",targetError:.1,resultTime:1533537748,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:9406,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-shaman-azeritelevels-1-t-pr-elemental-1d1b0716016d2568c0fd.js.map

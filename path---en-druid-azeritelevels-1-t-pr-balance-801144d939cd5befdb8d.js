@@ -1,2 +1,0 @@
-webpackJsonp([0xf65042f98dcf],{1682:function(e,t){e.exports={pathContext:{slug:"/druid/azeritelevels/1t-pr-balance",name:"AzeriteLevels_1T_PR_Druid_Balance",wowClass:"druid",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1t",tier:"pr",spec:"balance",variation:"",targetError:.1,resultTime:1533537341,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:9156,lang:"en"}}}});
-//# sourceMappingURL=path---en-druid-azeritelevels-1-t-pr-balance-801144d939cd5befdb8d.js.map

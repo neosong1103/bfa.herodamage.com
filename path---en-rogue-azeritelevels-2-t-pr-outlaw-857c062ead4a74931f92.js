@@ -1,2 +1,0 @@
-webpackJsonp([0x7878b8f19c5a],{1936:function(e,t){e.exports={pathContext:{slug:"/rogue/azeritelevels/2t-pr-outlaw",name:"AzeriteLevels_2T_PR_Rogue_Outlaw",wowClass:"rogue",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"2t",tier:"pr",spec:"outlaw",variation:"",targetError:.1,resultTime:1533538031,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:13389,lang:"en"}}}});
-//# sourceMappingURL=path---en-rogue-azeritelevels-2-t-pr-outlaw-857c062ead4a74931f92.js.map

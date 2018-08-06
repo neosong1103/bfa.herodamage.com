@@ -1,0 +1,2 @@
+webpackJsonp([0xd820d978c453],{2064:function(e,s){e.exports={pathContext:{slug:"/rogue/azeritelevels/3t-pr-assassination-exsg",name:"AzeriteLevels_3T_PR_Rogue_Assassination_Exsg",wowClass:"rogue",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"3t",tier:"pr",spec:"assassination",variation:"exsg",targetError:.1,resultTime:1533594016,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:18441,lang:"en"}}}});
+//# sourceMappingURL=path---en-rogue-azeritelevels-3-t-pr-assassination-exsg-95a0a45731d46c8ee8a8.js.map

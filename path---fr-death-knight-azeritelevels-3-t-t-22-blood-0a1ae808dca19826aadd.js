@@ -1,0 +1,2 @@
+webpackJsonp([0xfeefbe2f9a92],{2296:function(e,t){e.exports={pathContext:{slug:"/death-knight/azeritelevels/3t-t22-blood",name:"AzeriteLevels_3T_T22_Death-Knight_Blood",wowClass:"death-knight",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"3t",tier:"t22",spec:"blood",variation:"",targetError:.1,resultTime:1533596627,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:13745,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-death-knight-azeritelevels-3-t-t-22-blood-0a1ae808dca19826aadd.js.map
