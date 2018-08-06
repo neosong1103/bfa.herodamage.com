@@ -1,2 +1,0 @@
-webpackJsonp([0xc7adefbca038],{2321:function(e,t){e.exports={pathContext:{slug:"/mage/azeritestacks/1t-pr-frost",name:"AzeriteStacks_1T_PR_Mage_Frost",wowClass:"mage",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"frost",variation:"",targetError:.1,resultTime:1533534924,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:9510,lang:"fr",slugIntl:"/fr/mage/azeritestacks/1t-pr-frost"}}}});
-//# sourceMappingURL=path---fr-mage-azeritestacks-1-t-pr-frost-955c96a9b3d18da0a3b6.js.map

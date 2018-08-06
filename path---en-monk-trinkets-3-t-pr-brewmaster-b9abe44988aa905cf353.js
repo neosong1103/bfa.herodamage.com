@@ -1,2 +1,0 @@
-webpackJsonp([0xed465be3fb5f],{1857:function(e,t){e.exports={pathContext:{slug:"/monk/trinkets/3t-pr-brewmaster",name:"TrinketSimulation_3T_PR_Monk_Brewmaster",wowClass:"monk",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"3t",tier:"pr",spec:"brewmaster",variation:"",targetError:.2,resultTime:1533556990,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:7341,lang:"en",slugIntl:"/en/monk/trinkets/3t-pr-brewmaster"}}}});
-//# sourceMappingURL=path---en-monk-trinkets-3-t-pr-brewmaster-b9abe44988aa905cf353.js.map

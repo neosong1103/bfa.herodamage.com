@@ -1,2 +1,0 @@
-webpackJsonp([54499736926929],{2104:function(r,t){r.exports={pathContext:{slug:"/warrior/trinkets/3t-pr-fury",name:"TrinketSimulation_3T_PR_Warrior_Fury",wowClass:"warrior",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"3t",tier:"pr",spec:"fury",variation:"",targetError:.2,resultTime:1533556943,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:14646,lang:"en",slugIntl:"/en/warrior/trinkets/3t-pr-fury"}}}});
-//# sourceMappingURL=path---en-warrior-trinkets-3-t-pr-fury-7f513a4b1f3835b488eb.js.map

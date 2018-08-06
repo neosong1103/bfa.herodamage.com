@@ -1,0 +1,2 @@
+webpackJsonp([278591842318],{1868:function(e,t){e.exports={pathContext:{slug:"/paladin/azeritelevels/2t-pr-retribution",name:"AzeriteLevels_2T_PR_Paladin_Retribution",wowClass:"paladin",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"2t",tier:"pr",spec:"retribution",variation:"",targetError:.1,resultTime:1533541017,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:11125,lang:"en"}}}});
+//# sourceMappingURL=path---en-paladin-azeritelevels-2-t-pr-retribution-298059f30aea243e349f.js.map

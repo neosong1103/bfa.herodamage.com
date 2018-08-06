@@ -1,0 +1,2 @@
+webpackJsonp([0xbcf62ebe6a5b],{1591:function(e,t){e.exports={pathContext:{slug:"/death-knight/azeritelevels/1ta-t22-blood",name:"AzeriteLevels_1TA_T22_Death-Knight_Blood",wowClass:"death-knight",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1ta",tier:"t22",spec:"blood",variation:"",targetError:.1,resultTime:1533548363,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:12102,lang:"en"}}}});
+//# sourceMappingURL=path---en-death-knight-azeritelevels-1-ta-t-22-blood-a6d87bf99cde35f2741f.js.map

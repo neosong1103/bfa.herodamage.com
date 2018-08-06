@@ -1,0 +1,2 @@
+webpackJsonp([0x776bbf527b0f],{2310:function(e,t){e.exports={pathContext:{slug:"/mage/azeritelevels/1t-pr-arcane",name:"AzeriteLevels_1T_PR_Mage_Arcane",wowClass:"mage",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1t",tier:"pr",spec:"arcane",variation:"",targetError:.1,resultTime:1533534694,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:9237,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-mage-azeritelevels-1-t-pr-arcane-9749a4ae534d45e0e55d.js.map

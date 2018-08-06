@@ -1,0 +1,2 @@
+webpackJsonp([0xcf8600c7e63e],{1752:function(e,t){e.exports={pathContext:{slug:"/hunter/azeritestacks/2t-pr-survival",name:"AzeriteStacks_2T_PR_Hunter_Survival",wowClass:"hunter",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"2t",tier:"pr",spec:"survival",variation:"",targetError:.1,resultTime:1533539944,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:13295,lang:"en"}}}});
+//# sourceMappingURL=path---en-hunter-azeritestacks-2-t-pr-survival-3dc76ab42714c420f590.js.map

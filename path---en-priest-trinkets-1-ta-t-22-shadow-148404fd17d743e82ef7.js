@@ -1,2 +1,0 @@
-webpackJsonp([0x7c5bdf8b4b80],{1920:function(t,e){t.exports={pathContext:{slug:"/priest/trinkets/1ta-t22-shadow",name:"TrinketSimulation_1TA_T22_Priest_Shadow",wowClass:"priest",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1ta",tier:"t22",spec:"shadow",variation:"",targetError:.2,resultTime:1533558115,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:17457,lang:"en",slugIntl:"/en/priest/trinkets/1ta-t22-shadow"}}}});
-//# sourceMappingURL=path---en-priest-trinkets-1-ta-t-22-shadow-148404fd17d743e82ef7.js.map

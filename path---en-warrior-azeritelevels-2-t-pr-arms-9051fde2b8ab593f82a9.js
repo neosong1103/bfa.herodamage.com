@@ -1,0 +1,2 @@
+webpackJsonp([45478714191240],{2080:function(e,r){e.exports={pathContext:{slug:"/warrior/azeritelevels/2t-pr-arms",name:"AzeriteLevels_2T_PR_Warrior_Arms",wowClass:"warrior",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"2t",tier:"pr",spec:"arms",variation:"",targetError:.1,resultTime:1533539970,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:14305,lang:"en"}}}});
+//# sourceMappingURL=path---en-warrior-azeritelevels-2-t-pr-arms-9051fde2b8ab593f82a9.js.map

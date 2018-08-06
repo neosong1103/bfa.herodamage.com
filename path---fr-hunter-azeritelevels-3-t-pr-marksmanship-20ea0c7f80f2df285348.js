@@ -1,0 +1,2 @@
+webpackJsonp([30632759184163],{2271:function(e,t){e.exports={pathContext:{slug:"/hunter/azeritelevels/3t-pr-marksmanship",name:"AzeriteLevels_3T_PR_Hunter_Marksmanship",wowClass:"hunter",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"3t",tier:"pr",spec:"marksmanship",variation:"",targetError:.1,resultTime:1533543845,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:14258,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-hunter-azeritelevels-3-t-pr-marksmanship-20ea0c7f80f2df285348.js.map

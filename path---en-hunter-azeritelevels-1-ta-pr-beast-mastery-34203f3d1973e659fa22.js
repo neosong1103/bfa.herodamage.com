@@ -1,0 +1,2 @@
+webpackJsonp([32960217951903],{1735:function(e,t){e.exports={pathContext:{slug:"/hunter/azeritelevels/1ta-pr-beast-mastery",name:"AzeriteLevels_1TA_PR_Hunter_Beast-Mastery",wowClass:"hunter",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1ta",tier:"pr",spec:"beast-mastery",variation:"",targetError:.1,resultTime:1533549665,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:14334,lang:"en"}}}});
+//# sourceMappingURL=path---en-hunter-azeritelevels-1-ta-pr-beast-mastery-34203f3d1973e659fa22.js.map

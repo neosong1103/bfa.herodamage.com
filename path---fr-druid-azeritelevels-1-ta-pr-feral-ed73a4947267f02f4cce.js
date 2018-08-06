@@ -1,2 +1,0 @@
-webpackJsonp([2669961134437],{2212:function(e,r){e.exports={pathContext:{slug:"/druid/azeritelevels/1ta-pr-feral",name:"AzeriteLevels_1TA_PR_Druid_Feral",wowClass:"druid",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1ta",tier:"pr",spec:"feral",variation:"",targetError:.1,resultTime:1533551932,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:9941,lang:"fr",slugIntl:"/fr/druid/azeritelevels/1ta-pr-feral"}}}});
-//# sourceMappingURL=path---fr-druid-azeritelevels-1-ta-pr-feral-ed73a4947267f02f4cce.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0xa36e90aabb5e],{2132:function(t,e){t.exports={pathContext:{slug:"/death-knight/azeritestacks/1t-t22-blood",name:"AzeriteStacks_1T_T22_Death-Knight_Blood",wowClass:"death-knight",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"t22",spec:"blood",variation:"",targetError:.1,resultTime:1533535827,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:8690,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-death-knight-azeritestacks-1-t-t-22-blood-d4f05383eb94b1f3a205.js.map

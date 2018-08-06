@@ -1,0 +1,2 @@
+webpackJsonp([41338633351108],{1754:function(e,t){e.exports={pathContext:{slug:"/hunter/azeritestacks/3t-pr-marksmanship",name:"AzeriteStacks_3T_PR_Hunter_Marksmanship",wowClass:"hunter",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"3t",tier:"pr",spec:"marksmanship",variation:"",targetError:.1,resultTime:1533543845,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:14416,lang:"en"}}}});
+//# sourceMappingURL=path---en-hunter-azeritestacks-3-t-pr-marksmanship-3d8f34d20fc46fe19eef.js.map

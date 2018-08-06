@@ -1,2 +1,0 @@
-webpackJsonp([0xe29455f4862d],{1796:function(e,t){e.exports={pathContext:{slug:"/mage/azeritestacks/2t-pr-arcane",name:"AzeriteStacks_2T_PR_Mage_Arcane",wowClass:"mage",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"2t",tier:"pr",spec:"arcane",variation:"",targetError:.1,resultTime:1533538334,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:9932,lang:"en",slugIntl:"/en/mage/azeritestacks/2t-pr-arcane"}}}});
-//# sourceMappingURL=path---en-mage-azeritestacks-2-t-pr-arcane-662b4ff45ce5b2d35975.js.map

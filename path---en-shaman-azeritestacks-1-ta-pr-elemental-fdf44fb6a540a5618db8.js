@@ -1,0 +1,2 @@
+webpackJsonp([0x8c9f1e74d61c],{1993:function(e,t){e.exports={pathContext:{slug:"/shaman/azeritestacks/1ta-pr-elemental",name:"AzeriteStacks_1TA_PR_Shaman_Elemental",wowClass:"shaman",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1ta",tier:"pr",spec:"elemental",variation:"",targetError:.1,resultTime:1533552384,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:14084,lang:"en"}}}});
+//# sourceMappingURL=path---en-shaman-azeritestacks-1-ta-pr-elemental-fdf44fb6a540a5618db8.js.map

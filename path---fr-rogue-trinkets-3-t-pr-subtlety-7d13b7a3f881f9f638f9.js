@@ -1,2 +1,0 @@
-webpackJsonp([0xab28bc6b9956],{2502:function(t,e){t.exports={pathContext:{slug:"/rogue/trinkets/3t-pr-subtlety",name:"TrinketSimulation_3T_PR_Rogue_Subtlety",wowClass:"rogue",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"3t",tier:"pr",spec:"subtlety",variation:"",targetError:.2,resultTime:1533556673,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:14907,lang:"fr",slugIntl:"/fr/rogue/trinkets/3t-pr-subtlety"}}}});
-//# sourceMappingURL=path---fr-rogue-trinkets-3-t-pr-subtlety-7d13b7a3f881f9f638f9.js.map

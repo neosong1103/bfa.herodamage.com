@@ -1,0 +1,2 @@
+webpackJsonp([0x91f20d26a4ee],{2520:function(e,t){e.exports={pathContext:{slug:"/shaman/azeritestacks/1t-pr-enhancement",name:"AzeriteStacks_1T_PR_Shaman_Enhancement",wowClass:"shaman",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"enhancement",variation:"",targetError:.1,resultTime:1533537751,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:10987,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-shaman-azeritestacks-1-t-pr-enhancement-df6b4df532a92d8a0174.js.map

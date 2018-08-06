@@ -1,0 +1,2 @@
+webpackJsonp([0xdc5e320a45b4],{2317:function(e,t){e.exports={pathContext:{slug:"/mage/azeritelevels/2t-pr-fire",name:"AzeriteLevels_2T_PR_Mage_Fire",wowClass:"mage",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"2t",tier:"pr",spec:"fire",variation:"",targetError:.1,resultTime:1533538435,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:10362,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-mage-azeritelevels-2-t-pr-fire-00e5a64964db9e5dd401.js.map

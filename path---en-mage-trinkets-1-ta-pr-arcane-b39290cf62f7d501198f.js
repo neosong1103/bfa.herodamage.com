@@ -1,2 +1,0 @@
-webpackJsonp([0xf8485cb487f],{1817:function(e,t){e.exports={pathContext:{slug:"/mage/trinkets/1ta-pr-arcane",name:"TrinketSimulation_1TA_PR_Mage_Arcane",wowClass:"mage",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1ta",tier:"pr",spec:"arcane",variation:"",targetError:.2,resultTime:1533557362,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:11540,lang:"en",slugIntl:"/en/mage/trinkets/1ta-pr-arcane"}}}});
-//# sourceMappingURL=path---en-mage-trinkets-1-ta-pr-arcane-b39290cf62f7d501198f.js.map

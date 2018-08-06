@@ -1,0 +1,2 @@
+webpackJsonp([0x77b207d6c2b4],{1831:function(e,t){e.exports={pathContext:{slug:"/monk/azeritelevels/1t-pr-windwalker",name:"AzeriteLevels_1T_PR_Monk_Windwalker",wowClass:"monk",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1t",tier:"pr",spec:"windwalker",variation:"",targetError:.1,resultTime:1533536871,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:11549,lang:"en"}}}});
+//# sourceMappingURL=path---en-monk-azeritelevels-1-t-pr-windwalker-ce1729bdf19f50a23df4.js.map

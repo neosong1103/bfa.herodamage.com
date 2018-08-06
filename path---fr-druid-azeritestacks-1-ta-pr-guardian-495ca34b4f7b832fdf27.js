@@ -1,0 +1,2 @@
+webpackJsonp([18884625880235],{2228:function(e,t){e.exports={pathContext:{slug:"/druid/azeritestacks/1ta-pr-guardian",name:"AzeriteStacks_1TA_PR_Druid_Guardian",wowClass:"druid",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1ta",tier:"pr",spec:"guardian",variation:"",targetError:.1,resultTime:1533552127,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:8343,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-druid-azeritestacks-1-ta-pr-guardian-495ca34b4f7b832fdf27.js.map

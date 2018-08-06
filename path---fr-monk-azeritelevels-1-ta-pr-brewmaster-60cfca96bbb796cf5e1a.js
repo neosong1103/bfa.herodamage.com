@@ -1,0 +1,2 @@
+webpackJsonp([0xe0469a0fa4bb],{2361:function(e,t){e.exports={pathContext:{slug:"/monk/azeritelevels/1ta-pr-brewmaster",name:"AzeriteLevels_1TA_PR_Monk_Brewmaster",wowClass:"monk",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1ta",tier:"pr",spec:"brewmaster",variation:"",targetError:.1,resultTime:1533550476,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:7812,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-monk-azeritelevels-1-ta-pr-brewmaster-60cfca96bbb796cf5e1a.js.map

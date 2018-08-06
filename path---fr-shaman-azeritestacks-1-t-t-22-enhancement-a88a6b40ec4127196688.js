@@ -1,0 +1,2 @@
+webpackJsonp([0xd490bb775137],{2521:function(e,t){e.exports={pathContext:{slug:"/shaman/azeritestacks/1t-t22-enhancement",name:"AzeriteStacks_1T_T22_Shaman_Enhancement",wowClass:"shaman",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"t22",spec:"enhancement",variation:"",targetError:.1,resultTime:1533537753,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:15332,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-shaman-azeritestacks-1-t-t-22-enhancement-a88a6b40ec4127196688.js.map
