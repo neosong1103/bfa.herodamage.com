@@ -1,2 +1,0 @@
-webpackJsonp([86503122871672],{871:function(e,t){e.exports={pathContext:{slug:"/monk/azeritestacks/1t-pr-brewmaster",name:"AzeriteStacks_1T_PR_Monk_Brewmaster",wowClass:"monk",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"brewmaster",variation:"",targetError:.1,resultTime:1533517199,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
-//# sourceMappingURL=path---en-monk-azeritestacks-1-t-pr-brewmaster-a19b877e81376b2ef95a.js.map

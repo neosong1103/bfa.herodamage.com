@@ -1,2 +1,0 @@
-webpackJsonp([85190782404600],{1062:function(e,t){e.exports={pathContext:{slug:"/shaman/azeritelevels/1t-t22-enhancement",name:"AzeriteLevels_1T_T22_Shaman_Enhancement",wowClass:"shaman",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1t",tier:"t22",spec:"enhancement",variation:"",targetError:.1,resultTime:1533518215,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-shaman-azeritelevels-1-t-t-22-enhancement-ef91f38a3f0e502a05a8.js.map

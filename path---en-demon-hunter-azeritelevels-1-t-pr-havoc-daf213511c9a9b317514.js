@@ -1,2 +1,0 @@
-webpackJsonp([33351347772672],{820:function(e,t){e.exports={pathContext:{slug:"/demon-hunter/azeritelevels/1t-pr-havoc",name:"AzeriteLevels_1T_PR_Demon-Hunter_Havoc",wowClass:"demon-hunter",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1t",tier:"pr",spec:"havoc",variation:"",targetError:.1,resultTime:1533516933,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
-//# sourceMappingURL=path---en-demon-hunter-azeritelevels-1-t-pr-havoc-daf213511c9a9b317514.js.map

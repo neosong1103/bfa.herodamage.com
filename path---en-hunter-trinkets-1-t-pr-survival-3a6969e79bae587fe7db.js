@@ -1,2 +1,0 @@
-webpackJsonp([0x81029a284915],{854:function(t,e){t.exports={pathContext:{slug:"/hunter/trinkets/1t-pr-survival",name:"TrinketSimulation_1T_PR_Hunter_Survival",wowClass:"hunter",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"survival",variation:"",targetError:.2,resultTime:1533519070,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
-//# sourceMappingURL=path---en-hunter-trinkets-1-t-pr-survival-3a6969e79bae587fe7db.js.map

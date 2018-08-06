@@ -1,2 +1,0 @@
-webpackJsonp([0xb830a17d29ad],{959:function(t,e){t.exports={pathContext:{slug:"/death-knight/races/1t-pr-blood",name:"RaceSimulation_1T_PR_Death-Knight_Blood",wowClass:"death-knight",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"pr",spec:"blood",variation:"",targetError:.05,resultTime:1533518386,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-death-knight-races-1-t-pr-blood-288ba642c444de60465f.js.map

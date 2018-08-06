@@ -1,2 +1,0 @@
-webpackJsonp([0xc7007ebde6e4],{814:function(e,t){e.exports={pathContext:{slug:"/death-knight/races/1t-pr-frost",name:"RaceSimulation_1T_PR_Death-Knight_Frost",wowClass:"death-knight",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"pr",spec:"frost",variation:"",targetError:.05,resultTime:1533518423,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
-//# sourceMappingURL=path---en-death-knight-races-1-t-pr-frost-7b74f69f53067f7f1c2a.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([86039625196193],{1813:function(t,e){t.exports={pathContext:{slug:"/mage/trinkets/1t-pr-frost",name:"TrinketSimulation_1T_PR_Mage_Frost",wowClass:"mage",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"frost",variation:"",targetError:.2,resultTime:1533555501,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:9359,lang:"en",slugIntl:"/en/mage/trinkets/1t-pr-frost"}}}});
+//# sourceMappingURL=path---en-mage-trinkets-1-t-pr-frost-09cc1d56791016e893b1.js.map

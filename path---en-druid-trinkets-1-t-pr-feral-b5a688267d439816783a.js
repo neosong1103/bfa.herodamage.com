@@ -1,0 +1,2 @@
+webpackJsonp([9883350236496],{1713:function(e,t){e.exports={pathContext:{slug:"/druid/trinkets/1t-pr-feral",name:"TrinketSimulation_1T_PR_Druid_Feral",wowClass:"druid",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"feral",variation:"",targetError:.2,resultTime:1533555846,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:9269,lang:"en",slugIntl:"/en/druid/trinkets/1t-pr-feral"}}}});
+//# sourceMappingURL=path---en-druid-trinkets-1-t-pr-feral-b5a688267d439816783a.js.map

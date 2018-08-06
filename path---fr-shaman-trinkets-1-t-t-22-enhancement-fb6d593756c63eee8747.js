@@ -1,2 +1,0 @@
-webpackJsonp([0x9f2da68a566e],{1071:function(t,e){t.exports={pathContext:{slug:"/shaman/trinkets/1t-t22-enhancement",name:"TrinketSimulation_1T_T22_Shaman_Enhancement",wowClass:"shaman",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"t22",spec:"enhancement",variation:"",targetError:.2,resultTime:1533519375,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-shaman-trinkets-1-t-t-22-enhancement-fb6d593756c63eee8747.js.map

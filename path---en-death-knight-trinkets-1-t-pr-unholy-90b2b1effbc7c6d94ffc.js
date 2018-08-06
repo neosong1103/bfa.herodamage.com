@@ -1,2 +1,0 @@
-webpackJsonp([63856505434896],{818:function(t,e){t.exports={pathContext:{slug:"/death-knight/trinkets/1t-pr-unholy",name:"TrinketSimulation_1T_PR_Death-Knight_Unholy",wowClass:"death-knight",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"unholy",variation:"",targetError:.2,resultTime:1533518987,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
-//# sourceMappingURL=path---en-death-knight-trinkets-1-t-pr-unholy-90b2b1effbc7c6d94ffc.js.map

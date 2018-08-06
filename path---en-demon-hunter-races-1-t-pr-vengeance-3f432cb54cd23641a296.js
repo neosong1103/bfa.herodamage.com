@@ -1,2 +1,0 @@
-webpackJsonp([0xb39aa7017f3],{825:function(e,n){e.exports={pathContext:{slug:"/demon-hunter/races/1t-pr-vengeance",name:"RaceSimulation_1T_PR_Demon-Hunter_Vengeance",wowClass:"demon-hunter",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"pr",spec:"vengeance",variation:"",targetError:.05,resultTime:1533518590,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
-//# sourceMappingURL=path---en-demon-hunter-races-1-t-pr-vengeance-3f432cb54cd23641a296.js.map

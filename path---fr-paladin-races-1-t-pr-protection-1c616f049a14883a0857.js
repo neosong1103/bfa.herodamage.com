@@ -1,2 +1,0 @@
-webpackJsonp([0xff2247066b00],{1028:function(t,e){t.exports={pathContext:{slug:"/paladin/races/1t-pr-protection",name:"RaceSimulation_1T_PR_Paladin_Protection",wowClass:"paladin",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"pr",spec:"protection",variation:"",targetError:.05,resultTime:1533518647,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-paladin-races-1-t-pr-protection-1c616f049a14883a0857.js.map

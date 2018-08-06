@@ -1,2 +1,0 @@
-webpackJsonp([0x98953a447a5],{1053:function(a,s){a.exports={pathContext:{slug:"/rogue/races/1t-pr-assassination",name:"RaceSimulation_1T_PR_Rogue_Assassination",wowClass:"rogue",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"pr",spec:"assassination",variation:"",targetError:.05,resultTime:1533518246,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-rogue-races-1-t-pr-assassination-b35bcda8982e531fb1bd.js.map

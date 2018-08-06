@@ -1,2 +1,0 @@
-webpackJsonp([71073642476540],{961:function(t,e){t.exports={pathContext:{slug:"/death-knight/races/1t-pr-unholy",name:"RaceSimulation_1T_PR_Death-Knight_Unholy",wowClass:"death-knight",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"pr",spec:"unholy",variation:"",targetError:.05,resultTime:1533518450,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-death-knight-races-1-t-pr-unholy-f5694867f86e8c9fcba2.js.map

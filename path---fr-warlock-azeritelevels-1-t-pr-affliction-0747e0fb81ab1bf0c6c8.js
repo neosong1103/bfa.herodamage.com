@@ -1,2 +1,0 @@
-webpackJsonp([77296221707086],{1073:function(e,i){e.exports={pathContext:{slug:"/warlock/azeritelevels/1t-pr-affliction",name:"AzeriteLevels_1T_PR_Warlock_Affliction",wowClass:"warlock",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1t",tier:"pr",spec:"affliction",variation:"",targetError:.1,resultTime:1533516421,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-warlock-azeritelevels-1-t-pr-affliction-0747e0fb81ab1bf0c6c8.js.map

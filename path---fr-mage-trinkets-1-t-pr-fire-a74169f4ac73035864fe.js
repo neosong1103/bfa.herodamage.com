@@ -1,0 +1,2 @@
+webpackJsonp([0x830619d3e63d],{2341:function(e,t){e.exports={pathContext:{slug:"/mage/trinkets/1t-pr-fire",name:"TrinketSimulation_1T_PR_Mage_Fire",wowClass:"mage",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"fire",variation:"",targetError:.2,resultTime:1533555491,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:9049,lang:"fr",slugIntl:"/fr/mage/trinkets/1t-pr-fire"}}}});
+//# sourceMappingURL=path---fr-mage-trinkets-1-t-pr-fire-a74169f4ac73035864fe.js.map

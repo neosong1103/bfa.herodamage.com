@@ -1,0 +1,2 @@
+webpackJsonp([0xc32d15f88f8d],{2217:function(e,t){e.exports={pathContext:{slug:"/druid/azeritestacks/1t-pr-balance",name:"AzeriteStacks_1T_PR_Druid_Balance",wowClass:"druid",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"balance",variation:"",targetError:.1,resultTime:1533537374,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:9277,lang:"fr",slugIntl:"/fr/druid/azeritestacks/1t-pr-balance"}}}});
+//# sourceMappingURL=path---fr-druid-azeritestacks-1-t-pr-balance-6554bb86dd24eafa7791.js.map

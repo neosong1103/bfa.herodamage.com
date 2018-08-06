@@ -1,0 +1,2 @@
+webpackJsonp([95681058909359],{2096:function(r,t){r.exports={pathContext:{slug:"/warrior/trinkets/1ta-pr-arms",name:"TrinketSimulation_1TA_PR_Warrior_Arms",wowClass:"warrior",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1ta",tier:"pr",spec:"arms",variation:"",targetError:.2,resultTime:1533557844,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:14117,lang:"en",slugIntl:"/en/warrior/trinkets/1ta-pr-arms"}}}});
+//# sourceMappingURL=path---en-warrior-trinkets-1-ta-pr-arms-6b8b399fda3bb877d6b2.js.map

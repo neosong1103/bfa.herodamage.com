@@ -1,0 +1,2 @@
+webpackJsonp([8082191186792],{2608:function(r,t){r.exports={pathContext:{slug:"/warrior/azeritestacks/1t-pr-fury",name:"AzeriteStacks_1T_PR_Warrior_Fury",wowClass:"warrior",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"fury",variation:"",targetError:.1,resultTime:1533536361,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:9090,lang:"fr",slugIntl:"/fr/warrior/azeritestacks/1t-pr-fury"}}}});
+//# sourceMappingURL=path---fr-warrior-azeritestacks-1-t-pr-fury-83c7a6a7ea04479a7f81.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0xcc69ff178115],{984:function(t,e){t.exports={pathContext:{slug:"/druid/trinkets/1t-pr-balance",name:"TrinketSimulation_1T_PR_Druid_Balance",wowClass:"druid",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"balance",variation:"",targetError:.2,resultTime:1533519207,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-druid-trinkets-1-t-pr-balance-1116f09459b687d29c5a.js.map

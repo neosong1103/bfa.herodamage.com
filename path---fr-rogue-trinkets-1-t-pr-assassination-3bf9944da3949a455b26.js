@@ -1,2 +1,0 @@
-webpackJsonp([0xa0f8d36bca83],{1056:function(t,i){t.exports={pathContext:{slug:"/rogue/trinkets/1t-pr-assassination",name:"TrinketSimulation_1T_PR_Rogue_Assassination",wowClass:"rogue",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"assassination",variation:"",targetError:.2,resultTime:1533518827,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-rogue-trinkets-1-t-pr-assassination-3bf9944da3949a455b26.js.map

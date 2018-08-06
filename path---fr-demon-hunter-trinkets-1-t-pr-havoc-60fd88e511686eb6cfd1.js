@@ -1,2 +1,0 @@
-webpackJsonp([0xf5e08553add3],{972:function(t,e){t.exports={pathContext:{slug:"/demon-hunter/trinkets/1t-pr-havoc",name:"TrinketSimulation_1T_PR_Demon-Hunter_Havoc",wowClass:"demon-hunter",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"havoc",variation:"",targetError:.2,resultTime:1533519105,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-demon-hunter-trinkets-1-t-pr-havoc-60fd88e511686eb6cfd1.js.map

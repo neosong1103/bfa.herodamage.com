@@ -1,2 +1,2 @@
-webpackJsonp([0x5bd40935ecd4],{380:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(3),r=n(l),s=function(){return r.default.createElement("h1",null,"Azerite Levels simulations")};t.default=s,e.exports=t.default}});
+webpackJsonp([0x5bd40935ecd4],{361:function(e,t,u){"use strict";function n(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var l=u(3),r=n(l),s=function(){return r.default.createElement("h1",null,"Azerite Levels simulations")};t.default=s,e.exports=t.default}});
 //# sourceMappingURL=component---src-templates-simulation-azerite-levels-js-fbe2f0a0af5b9fad59a0.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0x5c29576ad4d3],{1083:function(t,e){t.exports={pathContext:{slug:"/warlock/trinkets/1t-pr-demonology",name:"TrinketSimulation_1T_PR_Warlock_Demonology",wowClass:"warlock",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"demonology",variation:"",targetError:.2,resultTime:1533519023,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-warlock-trinkets-1-t-pr-demonology-15e4ebada02a9f0cd41b.js.map

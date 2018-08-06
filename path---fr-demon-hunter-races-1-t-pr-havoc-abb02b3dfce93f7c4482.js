@@ -1,2 +1,0 @@
-webpackJsonp([0x940c55616fe8],{970:function(e,t){e.exports={pathContext:{slug:"/demon-hunter/races/1t-pr-havoc",name:"RaceSimulation_1T_PR_Demon-Hunter_Havoc",wowClass:"demon-hunter",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"pr",spec:"havoc",variation:"",targetError:.05,resultTime:1533518588,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-demon-hunter-races-1-t-pr-havoc-abb02b3dfce93f7c4482.js.map

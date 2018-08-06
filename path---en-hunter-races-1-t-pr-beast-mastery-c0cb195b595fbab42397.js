@@ -1,2 +1,0 @@
-webpackJsonp([0xa1e0c0518be8],{849:function(e,t){e.exports={pathContext:{slug:"/hunter/races/1t-pr-beast-mastery",name:"RaceSimulation_1T_PR_Hunter_Beast-Mastery",wowClass:"hunter",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"pr",spec:"beast-mastery",variation:"",targetError:.05,resultTime:1533518526,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
-//# sourceMappingURL=path---en-hunter-races-1-t-pr-beast-mastery-c0cb195b595fbab42397.js.map

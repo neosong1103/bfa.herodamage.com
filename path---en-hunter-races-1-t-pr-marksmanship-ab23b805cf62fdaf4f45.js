@@ -1,2 +1,0 @@
-webpackJsonp([91804941646029],{850:function(e,a){e.exports={pathContext:{slug:"/hunter/races/1t-pr-marksmanship",name:"RaceSimulation_1T_PR_Hunter_Marksmanship",wowClass:"hunter",simulationType:"races",order:5,template:"races",fightStyle:"1t",tier:"pr",spec:"marksmanship",variation:"",targetError:.05,resultTime:1533518546,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
-//# sourceMappingURL=path---en-hunter-races-1-t-pr-marksmanship-ab23b805cf62fdaf4f45.js.map

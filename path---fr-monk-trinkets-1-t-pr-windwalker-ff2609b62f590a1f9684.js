@@ -1,2 +1,0 @@
-webpackJsonp([21637644395606],{1022:function(t,e){t.exports={pathContext:{slug:"/monk/trinkets/1t-pr-windwalker",name:"TrinketSimulation_1T_PR_Monk_Windwalker",wowClass:"monk",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"windwalker",variation:"",targetError:.2,resultTime:1533519153,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"fr"}}}});
-//# sourceMappingURL=path---fr-monk-trinkets-1-t-pr-windwalker-ff2609b62f590a1f9684.js.map

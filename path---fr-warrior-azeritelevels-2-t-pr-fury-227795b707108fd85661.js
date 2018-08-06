@@ -1,0 +1,2 @@
+webpackJsonp([0xc1b222b6b8b4],{2604:function(e,r){e.exports={pathContext:{slug:"/warrior/azeritelevels/2t-pr-fury",name:"AzeriteLevels_2T_PR_Warrior_Fury",wowClass:"warrior",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"2t",tier:"pr",spec:"fury",variation:"",targetError:.1,resultTime:1533540038,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:11347,lang:"fr",slugIntl:"/fr/warrior/azeritelevels/2t-pr-fury"}}}});
+//# sourceMappingURL=path---fr-warrior-azeritelevels-2-t-pr-fury-227795b707108fd85661.js.map

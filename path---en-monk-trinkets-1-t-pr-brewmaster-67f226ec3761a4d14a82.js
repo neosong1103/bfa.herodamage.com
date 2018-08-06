@@ -1,2 +1,0 @@
-webpackJsonp([66641123831438],{875:function(t,e){t.exports={pathContext:{slug:"/monk/trinkets/1t-pr-brewmaster",name:"TrinketSimulation_1T_PR_Monk_Brewmaster",wowClass:"monk",simulationType:"trinkets",order:4,template:"trinkets",fightStyle:"1t",tier:"pr",spec:"brewmaster",variation:"",targetError:.2,resultTime:1533519130,version:"8.0.1",build:26095,buildTime:1533514690,gitRevision:"7300a1549b",lang:"en"}}}});
-//# sourceMappingURL=path---en-monk-trinkets-1-t-pr-brewmaster-67f226ec3761a4d14a82.js.map
