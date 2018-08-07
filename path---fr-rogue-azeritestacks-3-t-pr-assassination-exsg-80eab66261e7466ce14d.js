@@ -1,2 +1,0 @@
-webpackJsonp([0xa64d36f390cb],{2865:function(e,s){e.exports={pathContext:{slug:"/rogue/azeritestacks/3t-pr-assassination-exsg",name:"AzeriteStacks_3T_PR_Rogue_Assassination_Exsg",wowClass:"rogue",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"3t",tier:"pr",spec:"assassination",variation:"exsg",targetError:.1,resultTime:1533608398,version:"8.0.1",build:26095,buildTime:1533597113,gitRevision:"fe30609983",templateDPS:18231,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-rogue-azeritestacks-3-t-pr-assassination-exsg-80eab66261e7466ce14d.js.map

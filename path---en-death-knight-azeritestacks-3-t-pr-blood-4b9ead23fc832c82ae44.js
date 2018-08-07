@@ -1,2 +1,0 @@
-webpackJsonp([0xf32ebe25e29f],{1837:function(e,t){e.exports={pathContext:{slug:"/death-knight/azeritestacks/3t-pr-blood",name:"AzeriteStacks_3T_PR_Death-Knight_Blood",wowClass:"death-knight",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"3t",tier:"pr",spec:"blood",variation:"",targetError:.1,resultTime:1533610045,version:"8.0.1",build:26095,buildTime:1533597113,gitRevision:"fe30609983",templateDPS:9838,lang:"en"}}}});
-//# sourceMappingURL=path---en-death-knight-azeritestacks-3-t-pr-blood-4b9ead23fc832c82ae44.js.map

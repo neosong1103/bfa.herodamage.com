@@ -1,2 +1,0 @@
-webpackJsonp([0xa2f95a8dbbf6],{2771:function(t,e){t.exports={pathContext:{slug:"/priest/azeritestacks/1t-t22-shadow",name:"AzeriteStacks_1T_T22_Priest_Shadow",wowClass:"priest",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"t22",spec:"shadow",variation:"",targetError:.1,resultTime:1533601902,version:"8.0.1",build:26095,buildTime:1533597113,gitRevision:"fe30609983",templateDPS:12523,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-priest-azeritestacks-1-t-t-22-shadow-ea020337f7e19082fdf6.js.map

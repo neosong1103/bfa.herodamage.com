@@ -1,2 +1,0 @@
-webpackJsonp([0x89aa5cc33ef7],{3019:function(t,e){t.exports={pathContext:{slug:"/warlock/azeritestacks/1t-pr-destruction",name:"AzeriteStacks_1T_PR_Warlock_Destruction",wowClass:"warlock",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"destruction",variation:"",targetError:.1,resultTime:1533600378,version:"8.0.1",build:26095,buildTime:1533597113,gitRevision:"fe30609983",templateDPS:9485,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-warlock-azeritestacks-1-t-pr-destruction-8979b7678a9c727424fa.js.map

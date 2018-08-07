@@ -1,2 +1,0 @@
-webpackJsonp([0x87f6fa8ee803],{2869:function(e,t){e.exports={pathContext:{slug:"/rogue/azeritestacks/3t-pr-subtlety",name:"AzeriteStacks_3T_PR_Rogue_Subtlety",wowClass:"rogue",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"3t",tier:"pr",spec:"subtlety",variation:"",targetError:.1,resultTime:1533608876,version:"8.0.1",build:26095,buildTime:1533597113,gitRevision:"fe30609983",templateDPS:16239,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-rogue-azeritestacks-3-t-pr-subtlety-59ef3417e9d2e3d5e619.js.map

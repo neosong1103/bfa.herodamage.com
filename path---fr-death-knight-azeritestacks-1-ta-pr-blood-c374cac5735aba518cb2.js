@@ -1,2 +1,0 @@
-webpackJsonp([0xa57253827b60],{2470:function(t,e){t.exports={pathContext:{slug:"/death-knight/azeritestacks/1ta-pr-blood",name:"AzeriteStacks_1TA_PR_Death-Knight_Blood",wowClass:"death-knight",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1ta",tier:"pr",spec:"blood",variation:"",targetError:.1,resultTime:1533616576,version:"8.0.1",build:26095,buildTime:1533597113,gitRevision:"fe30609983",templateDPS:8747,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-death-knight-azeritestacks-1-ta-pr-blood-c374cac5735aba518cb2.js.map

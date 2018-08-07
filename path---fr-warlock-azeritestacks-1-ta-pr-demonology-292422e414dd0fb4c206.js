@@ -1,2 +1,0 @@
-webpackJsonp([0xc2a58c745f42],{3021:function(e,t){e.exports={pathContext:{slug:"/warlock/azeritestacks/1ta-pr-demonology",name:"AzeriteStacks_1TA_PR_Warlock_Demonology",wowClass:"warlock",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1ta",tier:"pr",spec:"demonology",variation:"",targetError:.1,resultTime:1533618142,version:"8.0.1",build:26095,buildTime:1533597113,gitRevision:"fe30609983",templateDPS:15225,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-warlock-azeritestacks-1-ta-pr-demonology-292422e414dd0fb4c206.js.map

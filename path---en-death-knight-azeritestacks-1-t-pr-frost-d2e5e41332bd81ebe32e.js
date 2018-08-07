@@ -1,2 +1,0 @@
-webpackJsonp([0xbc1d6d2750a0],{1826:function(t,e){t.exports={pathContext:{slug:"/death-knight/azeritestacks/1t-pr-frost",name:"AzeriteStacks_1T_PR_Death-Knight_Frost",wowClass:"death-knight",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"frost",variation:"",targetError:.1,resultTime:1533599574,version:"8.0.1",build:26095,buildTime:1533597113,gitRevision:"fe30609983",templateDPS:10393,lang:"en"}}}});
-//# sourceMappingURL=path---en-death-knight-azeritestacks-1-t-pr-frost-d2e5e41332bd81ebe32e.js.map
