@@ -1,2 +1,0 @@
-webpackJsonp([0xeae2e11c5b52],{2392:function(e,t){e.exports={pathContext:{slug:"/druid/azeritestacks/1t-pr-feral",name:"AzeriteStacks_1T_PR_Druid_Feral",wowClass:"druid",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"feral",variation:"",targetError:.1,resultTime:1533587163,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:9817,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-druid-azeritestacks-1-t-pr-feral-96c5211566d71bdb69ed.js.map

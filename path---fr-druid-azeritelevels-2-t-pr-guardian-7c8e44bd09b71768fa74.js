@@ -1,2 +1,0 @@
-webpackJsonp([0xb79b558ec061],{2387:function(e,i){e.exports={pathContext:{slug:"/druid/azeritelevels/2t-pr-guardian",name:"AzeriteLevels_2T_PR_Druid_Guardian",wowClass:"druid",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"2t",tier:"pr",spec:"guardian",variation:"",targetError:.1,resultTime:1533593645,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:6985,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-druid-azeritelevels-2-t-pr-guardian-7c8e44bd09b71768fa74.js.map

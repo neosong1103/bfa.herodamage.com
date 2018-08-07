@@ -1,2 +1,0 @@
-webpackJsonp([87827961398657],{1701:function(e,t){e.exports={pathContext:{slug:"/death-knight/azeritelevels/1ta-pr-frost",name:"AzeriteLevels_1TA_PR_Death-Knight_Frost",wowClass:"death-knight",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1ta",tier:"pr",spec:"frost",variation:"",targetError:.1,resultTime:1533547751,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:13165,lang:"en"}}}});
-//# sourceMappingURL=path---en-death-knight-azeritelevels-1-ta-pr-frost-580bfdfd72724fe9ad47.js.map

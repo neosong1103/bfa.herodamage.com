@@ -1,2 +1,0 @@
-webpackJsonp([0x8db6c0e60005],{1799:function(e,i){e.exports={pathContext:{slug:"/druid/azeritelevels/1ta-pr-guardian",name:"AzeriteLevels_1TA_PR_Druid_Guardian",wowClass:"druid",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1ta",tier:"pr",spec:"guardian",variation:"",targetError:.1,resultTime:1533552104,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:8242,lang:"en"}}}});
-//# sourceMappingURL=path---en-druid-azeritelevels-1-ta-pr-guardian-f18a0e8dd42fd2232ae8.js.map

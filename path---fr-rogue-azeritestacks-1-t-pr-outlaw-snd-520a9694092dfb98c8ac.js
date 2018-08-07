@@ -1,2 +1,0 @@
-webpackJsonp([0xce7b2662413b],{2661:function(e,t){e.exports={pathContext:{slug:"/rogue/azeritestacks/1t-pr-outlaw-snd",name:"AzeriteStacks_1T_PR_Rogue_Outlaw_SnD",wowClass:"rogue",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"outlaw",variation:"snd",targetError:.1,resultTime:1533583262,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:10190,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-rogue-azeritestacks-1-t-pr-outlaw-snd-520a9694092dfb98c8ac.js.map

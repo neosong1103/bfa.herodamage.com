@@ -1,0 +1,2 @@
+webpackJsonp([0xec9bc8d8c537],{2099:function(t,e){t.exports={pathContext:{slug:"/paladin/azeritestacks/1ta-pr-retribution",name:"AzeriteStacks_1TA_PR_Paladin_Retribution",wowClass:"paladin",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1ta",tier:"pr",spec:"retribution",variation:"",targetError:.1,resultTime:1533620843,version:"8.0.1",build:26095,buildTime:1533597113,gitRevision:"fe30609983",templateDPS:13408,lang:"en"}}}});
+//# sourceMappingURL=path---en-paladin-azeritestacks-1-ta-pr-retribution-99346e1e2188ce20a251.js.map

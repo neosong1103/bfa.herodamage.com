@@ -1,0 +1,2 @@
+webpackJsonp([0xf9298fd701fa],{2770:function(e,t){e.exports={pathContext:{slug:"/priest/azeritestacks/1t-pr-shadow",name:"AzeriteStacks_1T_PR_Priest_Shadow",wowClass:"priest",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"shadow",variation:"",targetError:.1,resultTime:1533601847,version:"8.0.1",build:26095,buildTime:1533597113,gitRevision:"fe30609983",templateDPS:9661,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-priest-azeritestacks-1-t-pr-shadow-e122705ac8c99a7f040b.js.map

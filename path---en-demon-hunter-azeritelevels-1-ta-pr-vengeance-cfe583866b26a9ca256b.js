@@ -1,2 +1,0 @@
-webpackJsonp([50125427272541],{1764:function(e,t){e.exports={pathContext:{slug:"/demon-hunter/azeritelevels/1ta-pr-vengeance",name:"AzeriteLevels_1TA_PR_Demon-Hunter_Vengeance",wowClass:"demon-hunter",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1ta",tier:"pr",spec:"vengeance",variation:"",targetError:.1,resultTime:1533550315,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:10809,lang:"en"}}}});
-//# sourceMappingURL=path---en-demon-hunter-azeritelevels-1-ta-pr-vengeance-cfe583866b26a9ca256b.js.map

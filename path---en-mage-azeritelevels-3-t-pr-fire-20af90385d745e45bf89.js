@@ -1,2 +1,0 @@
-webpackJsonp([79811198828626],{1903:function(e,t){e.exports={pathContext:{slug:"/mage/azeritelevels/3t-pr-fire",name:"AzeriteLevels_3T_PR_Mage_Fire",wowClass:"mage",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"3t",tier:"pr",spec:"fire",variation:"",targetError:.1,resultTime:1533595482,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:12419,lang:"en"}}}});
-//# sourceMappingURL=path---en-mage-azeritelevels-3-t-pr-fire-20af90385d745e45bf89.js.map

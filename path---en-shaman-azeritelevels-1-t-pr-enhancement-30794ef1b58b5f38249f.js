@@ -1,2 +1,0 @@
-webpackJsonp([26599718159755],{2147:function(e,t){e.exports={pathContext:{slug:"/shaman/azeritelevels/1t-pr-enhancement",name:"AzeriteLevels_1T_PR_Shaman_Enhancement",wowClass:"shaman",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1t",tier:"pr",spec:"enhancement",variation:"",targetError:.1,resultTime:1533587344,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:10846,lang:"en"}}}});
-//# sourceMappingURL=path---en-shaman-azeritelevels-1-t-pr-enhancement-30794ef1b58b5f38249f.js.map

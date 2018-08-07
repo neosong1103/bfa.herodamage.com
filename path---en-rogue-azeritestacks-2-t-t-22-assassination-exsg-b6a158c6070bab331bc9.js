@@ -1,0 +1,2 @@
+webpackJsonp([2571229726866],{2219:function(e,t){e.exports={pathContext:{slug:"/rogue/azeritestacks/2t-t22-assassination-exsg",name:"AzeriteStacks_2T_T22_Rogue_Assassination_Exsg",wowClass:"rogue",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"2t",tier:"t22",spec:"assassination",variation:"exsg",targetError:.1,resultTime:1533604343,version:"8.0.1",build:26095,buildTime:1533597113,gitRevision:"fe30609983",templateDPS:19909,lang:"en"}}}});
+//# sourceMappingURL=path---en-rogue-azeritestacks-2-t-t-22-assassination-exsg-b6a158c6070bab331bc9.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([80214681555471],{1804:function(e,t){e.exports={pathContext:{slug:"/druid/azeritelevels/3t-pr-feral",name:"AzeriteLevels_3T_PR_Druid_Feral",wowClass:"druid",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"3t",tier:"pr",spec:"feral",variation:"",targetError:.1,resultTime:1533545319,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:14144,lang:"en"}}}});
-//# sourceMappingURL=path---en-druid-azeritelevels-3-t-pr-feral-d94da6676ee9f79ddc40.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([0x859c15883a55],{2246:function(e,r){e.exports={pathContext:{slug:"/warrior/azeritelevels/1ta-pr-arms",name:"AzeriteLevels_1TA_PR_Warrior_Arms",wowClass:"warrior",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"1ta",tier:"pr",spec:"arms",variation:"",targetError:.1,resultTime:1533549863,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:13623,lang:"en"}}}});
-//# sourceMappingURL=path---en-warrior-azeritelevels-1-ta-pr-arms-510df6449ef4feaf0f56.js.map

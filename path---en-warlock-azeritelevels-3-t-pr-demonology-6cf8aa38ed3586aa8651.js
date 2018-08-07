@@ -1,2 +1,0 @@
-webpackJsonp([0xb8ce30824a04],{2205:function(e,t){e.exports={pathContext:{slug:"/warlock/azeritelevels/3t-pr-demonology",name:"AzeriteLevels_3T_PR_Warlock_Demonology",wowClass:"warlock",simulationType:"azeritelevels",order:1,template:"azerite-levels",fightStyle:"3t",tier:"pr",spec:"demonology",variation:"",targetError:.1,resultTime:1533543566,version:"8.0.1",build:26095,buildTime:1533534014,gitRevision:"2ef1d7e367",templateDPS:15664,lang:"en"}}}});
-//# sourceMappingURL=path---en-warlock-azeritelevels-3-t-pr-demonology-6cf8aa38ed3586aa8651.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x62535e701e65],{2863:function(e,t){e.exports={pathContext:{slug:"/rogue/azeritestacks/2t-t22-outlaw",name:"AzeriteStacks_2T_T22_Rogue_Outlaw",wowClass:"rogue",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"2t",tier:"t22",spec:"outlaw",variation:"",targetError:.1,resultTime:1533604595,version:"8.0.1",build:26095,buildTime:1533597113,gitRevision:"fe30609983",templateDPS:19302,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-rogue-azeritestacks-2-t-t-22-outlaw-966dbf3e851b66861e3e.js.map

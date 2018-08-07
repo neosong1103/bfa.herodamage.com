@@ -1,0 +1,2 @@
+webpackJsonp([31013626949172],{2529:function(e,t){e.exports={pathContext:{slug:"/demon-hunter/azeritestacks/3t-pr-havoc",name:"AzeriteStacks_3T_PR_Demon-Hunter_Havoc",wowClass:"demon-hunter",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"3t",tier:"pr",spec:"havoc",variation:"",targetError:.1,resultTime:1533611621,version:"8.0.1",build:26095,buildTime:1533597113,gitRevision:"fe30609983",templateDPS:15703,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-demon-hunter-azeritestacks-3-t-pr-havoc-0a443b636248093dab22.js.map

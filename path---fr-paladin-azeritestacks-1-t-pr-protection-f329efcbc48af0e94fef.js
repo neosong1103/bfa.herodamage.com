@@ -1,2 +1,0 @@
-webpackJsonp([0xd8d58ed814f5],{2568:function(t,e){t.exports={pathContext:{slug:"/paladin/azeritestacks/1t-pr-protection",name:"AzeriteStacks_1T_PR_Paladin_Protection",wowClass:"paladin",simulationType:"azeritestacks",order:2,template:"azerite-stacks",fightStyle:"1t",tier:"pr",spec:"protection",variation:"",targetError:.1,resultTime:1533586730,version:"8.0.1",build:26095,buildTime:1533582515,gitRevision:"4f4f2c8256",templateDPS:5390,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-paladin-azeritestacks-1-t-pr-protection-f329efcbc48af0e94fef.js.map
