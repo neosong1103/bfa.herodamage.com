@@ -77,8 +77,8 @@
       "path---shaman-azeritelevels-3-t-pr-elemental-0b23642bad177cd986d0.js.map"
     ],
     "path---rogue": [
-      "path---rogue-0eb5338ed6468347199d.js",
-      "path---rogue-0eb5338ed6468347199d.js.map"
+      "path---rogue-d793052dd23c1f685ab1.js",
+      "path---rogue-d793052dd23c1f685ab1.js.map"
     ],
     "path---fr-mage-races-1-t-pr-fire": [
       "path---fr-mage-races-1-t-pr-fire-61643abdfffecaf1e9ab.js",
@@ -237,8 +237,8 @@
       "path---priest-azeritelevels-3-t-pr-shadow-f0b79daa7ea0462984d2.js.map"
     ],
     "path---monk": [
-      "path---monk-f71252190aac3baf6bf0.js",
-      "path---monk-f71252190aac3baf6bf0.js.map"
+      "path---monk-a440582d808338469b80.js",
+      "path---monk-a440582d808338469b80.js.map"
     ],
     "path---rogue-azeritelevels-2-t-pr-outlaw": [
       "path---rogue-azeritelevels-2-t-pr-outlaw-eee7462333e6a26cd4e5.js",
@@ -429,8 +429,8 @@
       "path---fr-death-knight-trinkets-3-t-pr-frost-7cd8df1dc7272af68ee0.js.map"
     ],
     "path---fr-monk-azeritelevels-1-t-pr-brewmaster": [
-      "path---fr-monk-azeritelevels-1-t-pr-brewmaster-0d205f447fd1ee617d9f.js",
-      "path---fr-monk-azeritelevels-1-t-pr-brewmaster-0d205f447fd1ee617d9f.js.map"
+      "path---fr-monk-azeritelevels-1-t-pr-brewmaster-8482f2e82499b461b149.js",
+      "path---fr-monk-azeritelevels-1-t-pr-brewmaster-8482f2e82499b461b149.js.map"
     ],
     "path---fr-paladin-azeritestacks-3-t-pr-retribution": [
       "path---fr-paladin-azeritestacks-3-t-pr-retribution-4fc0604b40ae33e4c2d2.js",
@@ -465,12 +465,12 @@
       "path---rogue-races-2-t-t-22-subtlety-4343689642250d18f6f6.js.map"
     ],
     "path---fr-paladin": [
-      "path---fr-paladin-38da8f03018995ddbd56.js",
-      "path---fr-paladin-38da8f03018995ddbd56.js.map"
+      "path---fr-paladin-78287fdbded0767e1624.js",
+      "path---fr-paladin-78287fdbded0767e1624.js.map"
     ],
     "path---fr-rogue-trinkets-1-ta-t-22-assassination": [
-      "path---fr-rogue-trinkets-1-ta-t-22-assassination-1c6b260fd7642a51026d.js",
-      "path---fr-rogue-trinkets-1-ta-t-22-assassination-1c6b260fd7642a51026d.js.map"
+      "path---fr-rogue-trinkets-1-ta-t-22-assassination-4580c3ffc6e75c96dd38.js",
+      "path---fr-rogue-trinkets-1-ta-t-22-assassination-4580c3ffc6e75c96dd38.js.map"
     ],
     "path---hunter-azeritelevels-1-ta-pr-marksmanship": [
       "path---hunter-azeritelevels-1-ta-pr-marksmanship-52945e35d119c3fd997b.js",
@@ -637,8 +637,8 @@
       "path---fr-rogue-trinkets-2-t-t-22-assassination-exsg-95279fcbc6ffb67f8906.js.map"
     ],
     "path---monk-azeritelevels-3-t-pr-brewmaster": [
-      "path---monk-azeritelevels-3-t-pr-brewmaster-35a2d1961c73188e9a64.js",
-      "path---monk-azeritelevels-3-t-pr-brewmaster-35a2d1961c73188e9a64.js.map"
+      "path---monk-azeritelevels-3-t-pr-brewmaster-687c29ed4c8aeda45a3a.js",
+      "path---monk-azeritelevels-3-t-pr-brewmaster-687c29ed4c8aeda45a3a.js.map"
     ],
     "path---fr-shaman-azeritestacks-1-ta-pr-enhancement": [
       "path---fr-shaman-azeritestacks-1-ta-pr-enhancement-5dde840028c63fc8d5c2.js",
@@ -673,8 +673,8 @@
       "path---fr-druid-trinkets-2-t-pr-balance-e8650a474b627cb007df.js.map"
     ],
     "path---fr-monk-azeritelevels-2-t-pr-brewmaster": [
-      "path---fr-monk-azeritelevels-2-t-pr-brewmaster-1b9ec3ea9d50fd5e0523.js",
-      "path---fr-monk-azeritelevels-2-t-pr-brewmaster-1b9ec3ea9d50fd5e0523.js.map"
+      "path---fr-monk-azeritelevels-2-t-pr-brewmaster-0f663e9bcd368bb3cf6c.js",
+      "path---fr-monk-azeritelevels-2-t-pr-brewmaster-0f663e9bcd368bb3cf6c.js.map"
     ],
     "path---fr-warlock-azeritelevels-1-t-pr-destruction": [
       "path---fr-warlock-azeritelevels-1-t-pr-destruction-20c0c73c56438ac518c3.js",
@@ -709,8 +709,8 @@
       "path---warlock-azeritestacks-1-ta-pr-affliction-f9764a1d976875833734.js.map"
     ],
     "path---fr-rogue-trinkets-3-t-t-22-assassination": [
-      "path---fr-rogue-trinkets-3-t-t-22-assassination-1edb59460bc79867d750.js",
-      "path---fr-rogue-trinkets-3-t-t-22-assassination-1edb59460bc79867d750.js.map"
+      "path---fr-rogue-trinkets-3-t-t-22-assassination-558346c85ef3db473cbe.js",
+      "path---fr-rogue-trinkets-3-t-t-22-assassination-558346c85ef3db473cbe.js.map"
     ],
     "path---fr-rogue-races-1-ta-pr-outlaw": [
       "path---fr-rogue-races-1-ta-pr-outlaw-5e9942f400afce6b039c.js",
@@ -813,8 +813,8 @@
       "path---fr-rogue-azeritelevels-2-t-t-22-outlaw-6887083d02d0e886adbd.js.map"
     ],
     "path---monk-azeritelevels-1-t-pr-brewmaster": [
-      "path---monk-azeritelevels-1-t-pr-brewmaster-297cd9ffd2cb4ce57ebf.js",
-      "path---monk-azeritelevels-1-t-pr-brewmaster-297cd9ffd2cb4ce57ebf.js.map"
+      "path---monk-azeritelevels-1-t-pr-brewmaster-46f7401aba33e6082549.js",
+      "path---monk-azeritelevels-1-t-pr-brewmaster-46f7401aba33e6082549.js.map"
     ],
     "path---priest-azeritestacks-1-t-pr-shadow": [
       "path---priest-azeritestacks-1-t-pr-shadow-0818120d9381004437a1.js",
@@ -977,8 +977,8 @@
       "path---hunter-azeritelevels-2-t-pr-beast-mastery-fb68e0e76e89391e6a20.js.map"
     ],
     "path---paladin": [
-      "path---paladin-609b3465da42196aed84.js",
-      "path---paladin-609b3465da42196aed84.js.map"
+      "path---paladin-70108fa844583a588953.js",
+      "path---paladin-70108fa844583a588953.js.map"
     ],
     "path---fr-demon-hunter-races-1-t-pr-vengeance": [
       "path---fr-demon-hunter-races-1-t-pr-vengeance-09be7bdc1cd188cafceb.js",
@@ -1777,8 +1777,8 @@
       "path---fr-rogue-azeritestacks-1-t-t-22-outlaw-fa93c6db645bdcce683f.js.map"
     ],
     "path---fr-monk-azeritelevels-3-t-pr-brewmaster": [
-      "path---fr-monk-azeritelevels-3-t-pr-brewmaster-4f259b82aa850e9f96de.js",
-      "path---fr-monk-azeritelevels-3-t-pr-brewmaster-4f259b82aa850e9f96de.js.map"
+      "path---fr-monk-azeritelevels-3-t-pr-brewmaster-32c1ef724a92aa20eebc.js",
+      "path---fr-monk-azeritelevels-3-t-pr-brewmaster-32c1ef724a92aa20eebc.js.map"
     ],
     "component---src-templates-simulation-azerite-levels-js": [
       "component---src-templates-simulation-azerite-levels-js-3d123cd121b908ef1831.js",
@@ -1849,8 +1849,8 @@
       "path---monk-races-3-t-pr-brewmaster-3a6753e400070e349a16.js.map"
     ],
     "path---rogue-trinkets-2-t-t-22-assassination": [
-      "path---rogue-trinkets-2-t-t-22-assassination-956383f64827f3e5088e.js",
-      "path---rogue-trinkets-2-t-t-22-assassination-956383f64827f3e5088e.js.map"
+      "path---rogue-trinkets-2-t-t-22-assassination-bdfe1ae95743886cc012.js",
+      "path---rogue-trinkets-2-t-t-22-assassination-bdfe1ae95743886cc012.js.map"
     ],
     "path---warlock-trinkets-1-ta-pr-demonology": [
       "path---warlock-trinkets-1-ta-pr-demonology-72f52153d3abec06ea46.js",
@@ -2001,8 +2001,8 @@
       "path---druid-trinkets-1-ta-pr-feral-f9b345ab451c09f38ad1.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-6d7ddaa195f793e7d894.js",
-      "component---src-layouts-index-js-6d7ddaa195f793e7d894.js.map"
+      "component---src-layouts-index-js-87976587d6d386c256b9.js",
+      "component---src-layouts-index-js-87976587d6d386c256b9.js.map"
     ],
     "path---druid-trinkets-3-t-pr-feral": [
       "path---druid-trinkets-3-t-pr-feral-d38c2e5879a0a9998b7f.js",
@@ -2661,8 +2661,8 @@
       "path---fr-shaman-azeritelevels-1-ta-pr-elemental-4dec6dc3bf3fe376c6ef.js.map"
     ],
     "path---rogue-trinkets-1-t-t-22-assassination": [
-      "path---rogue-trinkets-1-t-t-22-assassination-a00736b8d66e805dc85a.js",
-      "path---rogue-trinkets-1-t-t-22-assassination-a00736b8d66e805dc85a.js.map"
+      "path---rogue-trinkets-1-t-t-22-assassination-fcb5de058219dc0e3a8b.js",
+      "path---rogue-trinkets-1-t-t-22-assassination-fcb5de058219dc0e3a8b.js.map"
     ],
     "path---rogue-trinkets-3-t-pr-assassination-exsg": [
       "path---rogue-trinkets-3-t-pr-assassination-exsg-c81c63b078d4c760d635.js",
@@ -2893,8 +2893,8 @@
       "path---fr-druid-trinkets-3-t-pr-feral-c7ca3f946be2439d27b7.js.map"
     ],
     "path---monk-azeritelevels-2-t-pr-brewmaster": [
-      "path---monk-azeritelevels-2-t-pr-brewmaster-12402487e14cf65314fa.js",
-      "path---monk-azeritelevels-2-t-pr-brewmaster-12402487e14cf65314fa.js.map"
+      "path---monk-azeritelevels-2-t-pr-brewmaster-769563f9088b8461f1c4.js",
+      "path---monk-azeritelevels-2-t-pr-brewmaster-769563f9088b8461f1c4.js.map"
     ],
     "path---demon-hunter-races-2-t-pr-vengeance": [
       "path---demon-hunter-races-2-t-pr-vengeance-a7ce05a95c58adc50c7e.js",
@@ -2941,8 +2941,8 @@
       "path---shaman-azeritestacks-2-t-pr-elemental-1cb61ef534cc98cbfa5b.js.map"
     ],
     "path---rogue-trinkets-1-ta-t-22-assassination": [
-      "path---rogue-trinkets-1-ta-t-22-assassination-d1f4662301e78c966473.js",
-      "path---rogue-trinkets-1-ta-t-22-assassination-d1f4662301e78c966473.js.map"
+      "path---rogue-trinkets-1-ta-t-22-assassination-916eee9472d4549bfb2c.js",
+      "path---rogue-trinkets-1-ta-t-22-assassination-916eee9472d4549bfb2c.js.map"
     ],
     "path---fr-hunter-azeritestacks-1-t-pr-survival": [
       "path---fr-hunter-azeritestacks-1-t-pr-survival-eb65a6d1cc22b63e285a.js",
@@ -3013,8 +3013,8 @@
       "path---rogue-trinkets-2-t-t-22-assassination-exsg-de4f68736a7be6a0f5c5.js.map"
     ],
     "path---fr-death-knight": [
-      "path---fr-death-knight-edf8c5b586c7a64656dc.js",
-      "path---fr-death-knight-edf8c5b586c7a64656dc.js.map"
+      "path---fr-death-knight-b8200a2208a15e7dd00f.js",
+      "path---fr-death-knight-b8200a2208a15e7dd00f.js.map"
     ],
     "path---fr-warrior": [
       "path---fr-warrior-439745591f176d055805.js",
@@ -3029,8 +3029,8 @@
       "path---shaman-races-2-t-pr-elemental-6766fe8b6e6b08c85276.js.map"
     ],
     "path---fr-rogue": [
-      "path---fr-rogue-fea3b56dab7819ae4c4c.js",
-      "path---fr-rogue-fea3b56dab7819ae4c4c.js.map"
+      "path---fr-rogue-d2f45c35d25a3c0046d7.js",
+      "path---fr-rogue-d2f45c35d25a3c0046d7.js.map"
     ],
     "path---rogue-trinkets-1-t-t-22-outlaw": [
       "path---rogue-trinkets-1-t-t-22-outlaw-e698c4c4149e2d632a08.js",
@@ -3109,8 +3109,8 @@
       "path---fr-mage-azeritelevels-3-t-pr-arcane-b347dedd8d23f15d2e80.js.map"
     ],
     "path---rogue-trinkets-3-t-t-22-assassination": [
-      "path---rogue-trinkets-3-t-t-22-assassination-0ac33de0bdf205e9d24d.js",
-      "path---rogue-trinkets-3-t-t-22-assassination-0ac33de0bdf205e9d24d.js.map"
+      "path---rogue-trinkets-3-t-t-22-assassination-aa77eeeb40dca1c60cbe.js",
+      "path---rogue-trinkets-3-t-t-22-assassination-aa77eeeb40dca1c60cbe.js.map"
     ],
     "path---shaman-races-1-ta-pr-elemental": [
       "path---shaman-races-1-ta-pr-elemental-3b3168ac81b3cc7c993c.js",
@@ -3301,8 +3301,8 @@
       "path---fr-demon-hunter-azeritelevels-3-t-pr-vengeance-6bb09d499f723a26ba93.js.map"
     ],
     "path---fr-rogue-trinkets-2-t-t-22-assassination": [
-      "path---fr-rogue-trinkets-2-t-t-22-assassination-5aba7ca7756ad57376a3.js",
-      "path---fr-rogue-trinkets-2-t-t-22-assassination-5aba7ca7756ad57376a3.js.map"
+      "path---fr-rogue-trinkets-2-t-t-22-assassination-78d5537907efa926461f.js",
+      "path---fr-rogue-trinkets-2-t-t-22-assassination-78d5537907efa926461f.js.map"
     ],
     "path---fr-death-knight-azeritestacks-1-t-t-22-blood": [
       "path---fr-death-knight-azeritestacks-1-t-t-22-blood-e45e3c796846323bf08d.js",
@@ -3841,8 +3841,8 @@
       "path---warlock-azeritestacks-1-t-pr-destruction-e4024793920a95c0c39d.js.map"
     ],
     "path---fr-monk": [
-      "path---fr-monk-be9e7867d5ab3bfbc249.js",
-      "path---fr-monk-be9e7867d5ab3bfbc249.js.map"
+      "path---fr-monk-813433154fcbb7b7b11d.js",
+      "path---fr-monk-813433154fcbb7b7b11d.js.map"
     ],
     "path---fr-shaman-races-1-ta-pr-enhancement": [
       "path---fr-shaman-races-1-ta-pr-enhancement-5bb593725cc7180064b9.js",
@@ -3969,8 +3969,8 @@
       "path---fr-shaman-azeritestacks-3-t-pr-elemental-3d520bb21d926942295c.js.map"
     ],
     "path---monk-azeritelevels-1-ta-pr-brewmaster": [
-      "path---monk-azeritelevels-1-ta-pr-brewmaster-ab8aa9ecbddf105dda9c.js",
-      "path---monk-azeritelevels-1-ta-pr-brewmaster-ab8aa9ecbddf105dda9c.js.map"
+      "path---monk-azeritelevels-1-ta-pr-brewmaster-3741432b00d5390e48ce.js",
+      "path---monk-azeritelevels-1-ta-pr-brewmaster-3741432b00d5390e48ce.js.map"
     ],
     "path---fr-rogue-azeritelevels-1-ta-pr-outlaw-snd": [
       "path---fr-rogue-azeritelevels-1-ta-pr-outlaw-snd-0ac2192f92a200c09e6c.js",
@@ -4269,8 +4269,8 @@
       "path---death-knight-races-1-t-t-22-blood-b5d7fe3c62a0a5f6ba22.js.map"
     ],
     "app": [
-      "app-70ab9a4b4cc0c4b397c9.js",
-      "app-70ab9a4b4cc0c4b397c9.js.map"
+      "app-448053a49128797fff88.js",
+      "app-448053a49128797fff88.js.map"
     ],
     "path---fr-shaman-azeritestacks-2-t-t-22-enhancement": [
       "path---fr-shaman-azeritestacks-2-t-t-22-enhancement-03606dd25971ec6213b5.js",
@@ -4321,8 +4321,8 @@
       "path---fr-shaman-azeritelevels-1-ta-t-22-enhancement-17f0f3f75ccfdadc4f88.js.map"
     ],
     "path---fr-rogue-trinkets-1-t-t-22-assassination": [
-      "path---fr-rogue-trinkets-1-t-t-22-assassination-3a879c0d6bec3ad6ac20.js",
-      "path---fr-rogue-trinkets-1-t-t-22-assassination-3a879c0d6bec3ad6ac20.js.map"
+      "path---fr-rogue-trinkets-1-t-t-22-assassination-a1ffd601378f2542b1c7.js",
+      "path---fr-rogue-trinkets-1-t-t-22-assassination-a1ffd601378f2542b1c7.js.map"
     ],
     "path---druid-azeritestacks-2-t-pr-guardian": [
       "path---druid-azeritestacks-2-t-pr-guardian-06b3729223462124f607.js",
@@ -4485,8 +4485,8 @@
       "path---fr-demon-hunter-races-3-t-pr-vengeance-f021c8724d17303256cf.js.map"
     ],
     "path---death-knight": [
-      "path---death-knight-753e867771716000ec73.js",
-      "path---death-knight-753e867771716000ec73.js.map"
+      "path---death-knight-788ca224449ea510ea64.js",
+      "path---death-knight-788ca224449ea510ea64.js.map"
     ],
     "path---priest-azeritelevels-2-t-pr-shadow": [
       "path---priest-azeritelevels-2-t-pr-shadow-1c9f121841436205216b.js",
@@ -4497,8 +4497,8 @@
       "path---fr-shaman-cab13322602538d32ac9.js.map"
     ],
     "path---fr-monk-azeritelevels-1-ta-pr-brewmaster": [
-      "path---fr-monk-azeritelevels-1-ta-pr-brewmaster-76647b6d635b10542e58.js",
-      "path---fr-monk-azeritelevels-1-ta-pr-brewmaster-76647b6d635b10542e58.js.map"
+      "path---fr-monk-azeritelevels-1-ta-pr-brewmaster-97dcf9c40b1e2d2f3ed6.js",
+      "path---fr-monk-azeritelevels-1-ta-pr-brewmaster-97dcf9c40b1e2d2f3ed6.js.map"
     ],
     "path---rogue-trinkets-1-t-t-22-assassination-exsg": [
       "path---rogue-trinkets-1-t-t-22-assassination-exsg-270f3091790d4d597fea.js",
@@ -4789,8 +4789,8 @@
       "path---fr-rogue-azeritelevels-1-t-t-22-outlaw-snd-672fd22c403c484295ea.js.map"
     ],
     "path---warlock": [
-      "path---warlock-cd9d371bb6dfa8844c97.js",
-      "path---warlock-cd9d371bb6dfa8844c97.js.map"
+      "path---warlock-18ba6734f811a9d47f42.js",
+      "path---warlock-18ba6734f811a9d47f42.js.map"
     ],
     "path---fr-monk-races-2-t-pr-brewmaster": [
       "path---fr-monk-races-2-t-pr-brewmaster-a0cb54c5f7865075e687.js",
@@ -4813,8 +4813,8 @@
       "path---fr-hunter-azeritestacks-2-t-pr-survival-2aa1bdaee77bc3e7cbb2.js.map"
     ],
     "path---fr-warlock": [
-      "path---fr-warlock-a22e836f3449c91725bc.js",
-      "path---fr-warlock-a22e836f3449c91725bc.js.map"
+      "path---fr-warlock-91364841c70262c3bd3d.js",
+      "path---fr-warlock-91364841c70262c3bd3d.js.map"
     ],
     "path---fr-death-knight-trinkets-3-t-t-22-blood": [
       "path---fr-death-knight-trinkets-3-t-t-22-blood-6fb39294b16fec796cf8.js",
