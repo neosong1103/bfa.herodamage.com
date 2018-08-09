@@ -1,0 +1,2 @@
+webpackJsonp([78118393534150],{3249:function(o,e){o.exports={pathContext:{slug:"/warlock/combinations/1t-pr-demonology",name:"Combinator_1T_PR_Warlock_Demonology",wowClass:"warlock",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"demonology",variation:"",targetError:.4,resultTime:1533778728,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"en"}}}});
+//# sourceMappingURL=path---warlock-combinations-1-t-pr-demonology-cec357a6a32e516c83ea.js.map

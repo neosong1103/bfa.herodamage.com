@@ -1,0 +1,2 @@
+webpackJsonp([0xf125ed6bcca7],{2357:function(e,t){e.exports={pathContext:{slug:"/monk/combinations/1t-pr-brewmaster",name:"Combinator_1T_PR_Monk_Brewmaster",wowClass:"monk",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"brewmaster",variation:"",targetError:.4,resultTime:1533779836,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-monk-combinations-1-t-pr-brewmaster-3e9b16798c362430dd6a.js.map

@@ -1,0 +1,2 @@
+webpackJsonp([0x8427cf928cc7],{3292:function(r,i){r.exports={pathContext:{slug:"/warrior/combinations/1t-pr-arms",name:"Combinator_1T_PR_Warrior_Arms",wowClass:"warrior",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"arms",variation:"",targetError:.4,resultTime:1533779279,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"en"}}}});
+//# sourceMappingURL=path---warrior-combinations-1-t-pr-arms-db95b05b022952fe3143.js.map

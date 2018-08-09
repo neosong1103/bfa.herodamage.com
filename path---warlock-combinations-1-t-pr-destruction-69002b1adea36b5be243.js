@@ -1,0 +1,2 @@
+webpackJsonp([85000311992523],{3250:function(t,e){t.exports={pathContext:{slug:"/warlock/combinations/1t-pr-destruction",name:"Combinator_1T_PR_Warlock_Destruction",wowClass:"warlock",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"destruction",variation:"",targetError:.4,resultTime:1533778822,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"en"}}}});
+//# sourceMappingURL=path---warlock-combinations-1-t-pr-destruction-69002b1adea36b5be243.js.map

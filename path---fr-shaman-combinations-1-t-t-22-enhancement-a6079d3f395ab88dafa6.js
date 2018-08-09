@@ -1,0 +1,2 @@
+webpackJsonp([87581035458578],{2660:function(n,e){n.exports={pathContext:{slug:"/shaman/combinations/1t-t22-enhancement",name:"Combinator_1T_T22_Shaman_Enhancement",wowClass:"shaman",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"t22",spec:"enhancement",variation:"",targetError:.4,resultTime:1533783569,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-shaman-combinations-1-t-t-22-enhancement-a6079d3f395ab88dafa6.js.map

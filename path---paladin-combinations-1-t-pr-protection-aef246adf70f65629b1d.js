@@ -1,0 +1,2 @@
+webpackJsonp([2310815072960],{2938:function(t,i){t.exports={pathContext:{slug:"/paladin/combinations/1t-pr-protection",name:"Combinator_1T_PR_Paladin_Protection",wowClass:"paladin",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"protection",variation:"",targetError:.4,resultTime:1533780076,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"en"}}}});
+//# sourceMappingURL=path---paladin-combinations-1-t-pr-protection-aef246adf70f65629b1d.js.map

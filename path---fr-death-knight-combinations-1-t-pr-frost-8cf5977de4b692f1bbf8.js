@@ -1,0 +1,2 @@
+webpackJsonp([39442459594225],{2113:function(t,i){t.exports={pathContext:{slug:"/death-knight/combinations/1t-pr-frost",name:"Combinator_1T_PR_Death-Knight_Frost",wowClass:"death-knight",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"frost",variation:"",targetError:.4,resultTime:1533777726,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-death-knight-combinations-1-t-pr-frost-8cf5977de4b692f1bbf8.js.map

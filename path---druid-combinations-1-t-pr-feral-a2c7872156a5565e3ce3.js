@@ -1,0 +1,2 @@
+webpackJsonp([0xd8e6eb4f7244],{2047:function(e,i){e.exports={pathContext:{slug:"/druid/combinations/1t-pr-feral",name:"Combinator_1T_PR_Druid_Feral",wowClass:"druid",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"feral",variation:"",targetError:.4,resultTime:1533780710,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"en"}}}});
+//# sourceMappingURL=path---druid-combinations-1-t-pr-feral-a2c7872156a5565e3ce3.js.map

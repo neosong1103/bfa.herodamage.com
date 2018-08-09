@@ -1,0 +1,2 @@
+webpackJsonp([0xa65146bece5c],{2544:function(i,t){i.exports={pathContext:{slug:"/rogue/combinations/1t-pr-assassination",name:"Combinator_1T_PR_Rogue_Assassination",wowClass:"rogue",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"assassination",variation:"",targetError:.4,resultTime:1533775963,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"fr"}}}});
+//# sourceMappingURL=path---fr-rogue-combinations-1-t-pr-assassination-2f2bc002c4eab6c7cfe0.js.map

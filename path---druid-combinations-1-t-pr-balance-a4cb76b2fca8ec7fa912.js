@@ -1,0 +1,2 @@
+webpackJsonp([0xeb952c5871b4],{2046:function(e,i){e.exports={pathContext:{slug:"/druid/combinations/1t-pr-balance",name:"Combinator_1T_PR_Druid_Balance",wowClass:"druid",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"balance",variation:"",targetError:.4,resultTime:1533780529,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"en"}}}});
+//# sourceMappingURL=path---druid-combinations-1-t-pr-balance-a4cb76b2fca8ec7fa912.js.map
