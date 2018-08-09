@@ -1,2 +1,0 @@
-webpackJsonp([8731831931258],{2166:function(e,n){e.exports={pathContext:{slug:"/demon-hunter/combinations/1t-pr-vengeance",name:"Combinator_1T_PR_Demon-Hunter_Vengeance",wowClass:"demon-hunter",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"vengeance",variation:"",targetError:.4,resultTime:1533779797,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-demon-hunter-combinations-1-t-pr-vengeance-35893993f2bbeb486636.js.map

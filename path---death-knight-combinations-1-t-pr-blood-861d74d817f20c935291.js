@@ -1,2 +1,0 @@
-webpackJsonp([56939723082996],{1950:function(t,e){t.exports={pathContext:{slug:"/death-knight/combinations/1t-pr-blood",name:"Combinator_1T_PR_Death-Knight_Blood",wowClass:"death-knight",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"blood",variation:"",targetError:.4,resultTime:1533777415,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"en"}}}});
-//# sourceMappingURL=path---death-knight-combinations-1-t-pr-blood-861d74d817f20c935291.js.map

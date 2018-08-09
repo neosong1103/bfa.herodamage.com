@@ -1,2 +1,0 @@
-webpackJsonp([34438267988626],{2114:function(t,i){t.exports={pathContext:{slug:"/death-knight/combinations/1t-pr-unholy",name:"Combinator_1T_PR_Death-Knight_Unholy",wowClass:"death-knight",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"unholy",variation:"",targetError:.4,resultTime:1533778342,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-death-knight-combinations-1-t-pr-unholy-772dd87f337c9d2807e7.js.map

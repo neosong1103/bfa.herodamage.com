@@ -1,2 +1,0 @@
-webpackJsonp([0x5ed5b32c6496],{3083:function(t,e){t.exports={pathContext:{slug:"/rogue/combinations/1t-pr-outlaw-snd",name:"Combinator_1T_PR_Rogue_Outlaw_SnD",wowClass:"rogue",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"outlaw",variation:"snd",targetError:.4,resultTime:1533776168,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"en"}}}});
-//# sourceMappingURL=path---rogue-combinations-1-t-pr-outlaw-snd-4d45e49df66dc22c2eb4.js.map

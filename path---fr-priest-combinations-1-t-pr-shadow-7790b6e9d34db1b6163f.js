@@ -1,2 +1,0 @@
-webpackJsonp([0x992fb8b1ba37],{2444:function(t,i){t.exports={pathContext:{slug:"/priest/combinations/1t-pr-shadow",name:"Combinator_1T_PR_Priest_Shadow",wowClass:"priest",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"shadow",variation:"",targetError:.4,resultTime:1533780861,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-priest-combinations-1-t-pr-shadow-7790b6e9d34db1b6163f.js.map

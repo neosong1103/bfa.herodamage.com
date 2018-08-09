@@ -1,2 +1,0 @@
-webpackJsonp([86480989459730],{2048:function(i,t){i.exports={pathContext:{slug:"/druid/combinations/1t-pr-guardian",name:"Combinator_1T_PR_Druid_Guardian",wowClass:"druid",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"guardian",variation:"",targetError:.4,resultTime:1533780723,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"en"}}}});
-//# sourceMappingURL=path---druid-combinations-1-t-pr-guardian-f57504f3acef43718201.js.map

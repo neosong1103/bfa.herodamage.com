@@ -1,2 +1,0 @@
-webpackJsonp([19248988469945],{2800:function(t,e){t.exports={pathContext:{slug:"/hunter/combinations/1t-pr-survival",name:"Combinator_1T_PR_Hunter_Survival",wowClass:"hunter",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"survival",variation:"",targetError:.4,resultTime:1533779168,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"en"}}}});
-//# sourceMappingURL=path---hunter-combinations-1-t-pr-survival-f4b84c6fe5e5d109dddd.js.map

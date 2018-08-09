@@ -1,2 +1,0 @@
-webpackJsonp([67733003522030],{2445:function(t,i){t.exports={pathContext:{slug:"/priest/combinations/1t-t22-shadow",name:"Combinator_1T_T22_Priest_Shadow",wowClass:"priest",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"t22",spec:"shadow",variation:"",targetError:.4,resultTime:1533781004,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-priest-combinations-1-t-t-22-shadow-06a823810295d1867733.js.map

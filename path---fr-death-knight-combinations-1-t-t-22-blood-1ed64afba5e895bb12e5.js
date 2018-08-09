@@ -1,2 +1,0 @@
-webpackJsonp([0x6724fbce26c7],{2115:function(t,e){t.exports={pathContext:{slug:"/death-knight/combinations/1t-t22-blood",name:"Combinator_1T_T22_Death-Knight_Blood",wowClass:"death-knight",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"t22",spec:"blood",variation:"",targetError:.4,resultTime:1533778356,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-death-knight-combinations-1-t-t-22-blood-1ed64afba5e895bb12e5.js.map

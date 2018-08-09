@@ -1,2 +1,0 @@
-webpackJsonp([82454977589098],{3196:function(e,t){e.exports={pathContext:{slug:"/shaman/combinations/1t-pr-elemental",name:"Combinator_1T_PR_Shaman_Elemental",wowClass:"shaman",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"elemental",variation:"",targetError:.4,resultTime:1533781260,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"en"}}}});
-//# sourceMappingURL=path---shaman-combinations-1-t-pr-elemental-62c7380f4fd20c2d2091.js.map

@@ -1,2 +1,0 @@
-webpackJsonp([79356815458375],{2003:function(e,t){e.exports={pathContext:{slug:"/demon-hunter/combinations/1t-pr-havoc",name:"Combinator_1T_PR_Demon-Hunter_Havoc",wowClass:"demon-hunter",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"havoc",variation:"",targetError:.4,resultTime:1533779759,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"en"}}}});
-//# sourceMappingURL=path---demon-hunter-combinations-1-t-pr-havoc-01808ffd4606538f24a8.js.map

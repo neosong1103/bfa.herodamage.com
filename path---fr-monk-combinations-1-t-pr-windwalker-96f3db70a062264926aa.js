@@ -1,2 +1,0 @@
-webpackJsonp([0xd553d9417f00],{2358:function(i,e){i.exports={pathContext:{slug:"/monk/combinations/1t-pr-windwalker",name:"Combinator_1T_PR_Monk_Windwalker",wowClass:"monk",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"pr",spec:"windwalker",variation:"",targetError:.4,resultTime:1533779890,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-monk-combinations-1-t-pr-windwalker-96f3db70a062264926aa.js.map

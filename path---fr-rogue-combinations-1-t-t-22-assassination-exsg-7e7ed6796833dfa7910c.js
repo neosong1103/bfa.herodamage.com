@@ -1,2 +1,0 @@
-webpackJsonp([0xaa432ed50871],{2548:function(t,i){t.exports={pathContext:{slug:"/rogue/combinations/1t-t22-assassination-exsg",name:"Combinator_1T_T22_Rogue_Assassination_Exsg",wowClass:"rogue",simulationType:"combinations",order:3,template:"combinations",fightStyle:"1t",tier:"t22",spec:"assassination",variation:"exsg",targetError:.4,resultTime:1533776612,version:"8.0.1",build:26095,buildTime:1533768918,gitRevision:"5395e785ed",templateDPS:null,lang:"fr"}}}});
-//# sourceMappingURL=path---fr-rogue-combinations-1-t-t-22-assassination-exsg-7e7ed6796833dfa7910c.js.map
