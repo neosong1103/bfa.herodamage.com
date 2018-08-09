@@ -1,2 +1,1 @@
-webpackJsonp([84887730282209],{2142:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Hero Damage"}}},pathContext:{lang:"en"}}}});
-//# sourceMappingURL=path---faq-fa1178619a2d4f3798e9.js.map
+webpackJsonp([84887730282209],{2124:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Hero Damage"}}},pathContext:{lang:"en"}}}});
