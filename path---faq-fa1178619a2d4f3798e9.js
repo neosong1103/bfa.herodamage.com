@@ -1,1 +1,1 @@
-webpackJsonp([84887730282209],{2125:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Hero Damage"}}},pathContext:{lang:"en"}}}});
+webpackJsonp([84887730282209],{2214:function(t,a){t.exports={data:{site:{siteMetadata:{title:"Hero Damage"}}},pathContext:{lang:"en"}}}});
