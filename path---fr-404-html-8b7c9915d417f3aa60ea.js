@@ -1,1 +1,1 @@
-webpackJsonp([0xd2377d27c9f2],{2302:function(n,t){n.exports={pathContext:{lang:"fr"}}}});
+webpackJsonp([0xd2377d27c9f2],{2326:function(n,t){n.exports={pathContext:{lang:"fr"}}}});
